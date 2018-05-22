@@ -6,4 +6,5 @@ Use your points (type !points to see your amount in chat) to trigger the special
 
 Sound effects:
 
-> test
+* test
+* gdf
