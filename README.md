@@ -11,6 +11,9 @@ To check your points use !points
 
 | Command | Cost (points) | Effect |
 |:-----:|:-----:|:-----:|
+|!doorbell| 10 | Sound of a doorbell |
+|!rooster| 15 | Sound of a rooster crowing |
+|!mariofail| 20 | Sound of mario dying |
 |!grenaderight| 25 | Realistic grenade landing at Rove's feet coming in from the right |
 |!stepsdown| 25 | Realistic steps heard by Rove downstairs in a building |
 |!stepsup| 25 | Realistic steps heard by Rove upstairs in a building |
@@ -23,13 +26,10 @@ To check your points use !points
 |!slrshot| 25 | Realistic shot of a silenced SLR gun wizzing by Rove's head |
 |!reload| 25 | Realistic sound is heard by Rove of a guy reloading nearby |
 |!helmet nice| 25 | Arokh says nice! |
-|!mariofail| 20 | Sound of mario dying |
 |!trollsong| 25 | Plays a happy troll song |
 |!applause| 25 | Audience applauses |
 |!knock| 25 | Crazy realistic knocking sound to scare Rove |
 |!cry| 25 | Sound of a baby crying |
-|!rooster| 15 | Sound of a rooster crowing |
-|!doorbell| 10 | Sound of a doorbell |
 
 ## Video effects:
 
