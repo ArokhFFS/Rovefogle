@@ -29,6 +29,7 @@ To check your points use !points
 |!knock| 25 | Crazy realistic knocking sound to scare Rove |
 |!cry| 25 | Sound of a baby crying |
 |!rooster| 15 | Sound of a rooster crowing |
+|!doorbell| 10 | Sound of a doorbell |
 
 ## Video effects:
 
