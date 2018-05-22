@@ -26,10 +26,10 @@ Video effects cost 50pts
 | Command | Cost (points) | What? |
 |:-----:|:-----:|:-----:|
 |!grenaderight| 25 | Realistic grenade landing at Rove's feet coming in from the right |
-|ETV02| [Palvelun toimivuus eri älypuhelimilla](testi2) | Ei-toiminnallinen vaatimus |
-|ETV05| [Palvelun 24/7 ylläpito](testi3) | Ei-toiminnallinen vaatimus |
-|SK01| [Samanaikaiset käyttäjät](testi4) | Suorituskyky |
-|TT03| [Kaksivaiheisen todennuksen varmistus](testi5) | Tietoturva |
+|ETV02| 25 | Ei-toiminnallinen vaatimus |
+|ETV05| 25 | Ei-toiminnallinen vaatimus |
+|SK01| 25 | Suorituskyky |
+|TT03| 25 | Tietoturva |
 
 ## Video effects:
 
