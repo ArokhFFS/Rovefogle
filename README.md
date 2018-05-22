@@ -26,10 +26,16 @@ Video effects cost 50pts
 | Command | Cost (points) | What? |
 |:-----:|:-----:|:-----:|
 |!grenaderight| 25 | Realistic grenade landing at Rove's feet coming in from the right |
-|ETV02| 25 | Ei-toiminnallinen vaatimus |
-|ETV05| 25 | Ei-toiminnallinen vaatimus |
-|SK01| 25 | Suorituskyky |
-|TT03| 25 | Tietoturva |
+|!stepsdown| 25 | Ei-toiminnallinen vaatimus |
+|!stepsup| 25 | Ei-toiminnallinen vaatimus |
+|!buggy| 25 | Suorituskyky |
+|!silencedshots| 25 | Tietoturva |
+|!suspense| 25 | Tietoturva |
+|!treeshots| 25 | Tietoturva |
+|!violin| 25 | Tietoturva |
+|!slrshot| 25 | Tietoturva |
+|!reload| 25 | Tietoturva |
+|!helmet nice| 25 | Tietoturva |
 
 ## Video effects:
 
