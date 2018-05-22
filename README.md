@@ -12,6 +12,7 @@ You can use the points to trigger special effects on Rove's stream.
 | Command | Cost (points) | Effect |
 |:-----:|:-----:|:-----:|
 |!doorbell| 10 | Sound of a doorbell |
+|!helmetnice| 10 | Arokh says nice! |
 |!rooster| 15 | Sound of a rooster crowing |
 |!mariofail| 20 | Sound of mario dying |
 |!grenaderight| 25 | Realistic grenade landing at Rove's feet coming in from the right |
@@ -25,7 +26,6 @@ You can use the points to trigger special effects on Rove's stream.
 |!violin| 25 | Sad violin plays |
 |!slrshot| 25 | Realistic shot of a silenced SLR gun wizzing by Rove's head |
 |!reload| 25 | Realistic sound is heard by Rove of a guy reloading nearby |
-|!helmetnice| 25 | Arokh says nice! |
 |!trollsong| 25 | Plays a happy troll song |
 |!applause| 25 | Audience applauses |
 |!knock| 25 | Crazy realistic knocking sound to scare Rove |
