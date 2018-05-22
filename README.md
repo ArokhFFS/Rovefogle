@@ -25,7 +25,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!violin| 25 | Sad violin plays |
 |!slrshot| 25 | Realistic shot of a silenced SLR gun wizzing by Rove's head |
 |!reload| 25 | Realistic sound is heard by Rove of a guy reloading nearby |
-|!helmet nice| 25 | Arokh says nice! |
+|!helmetnice| 25 | Arokh says nice! |
 |!trollsong| 25 | Plays a happy troll song |
 |!applause| 25 | Audience applauses |
 |!knock| 25 | Crazy realistic knocking sound to scare Rove |
@@ -40,7 +40,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!rule2| 35 | Rove comes in and explains rule number two |
 |!seinfeld| 35 | Credits to seinfeld starts playing |
 |!starwars| 35 | Credits to starwars start playing with a twist |
-|!dauym| 50 | Rove comes in and says DAYUM |
+|!dayum| 50 | Rove comes in and says DAYUM |
 |!yousuck| 50 | Rove comes in and tells Rovefogle he sucks |
 |!headshot| 50 | Rove comes in and says HEADSHOOOT |
 |!nochicken| 50 | Mysterious lady comes in and is disappointed with yet again no chicken |
