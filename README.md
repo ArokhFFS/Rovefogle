@@ -2,9 +2,9 @@
 
 ## Guide to use Rovefogle's special effects on stream!
 
-By using your points you gain watching the stream you can trigger special effects on Rove's stream.
-
+You gain points by watching the stream. You can use the points to trigger special effects on Rove's stream.
 To check your points use !points
+
 Sound effects cost 25pts
 Video effects cost 50pts
 
