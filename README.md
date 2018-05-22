@@ -23,6 +23,12 @@ To check your points use !points
 |!slrshot| 25 | Realistic shot of a silenced SLR gun wizzing by Rove's head |
 |!reload| 25 | Realistic sound is heard by Rove of a guy reloading nearby |
 |!helmet nice| 25 | Arokh says nice! |
+|!mariofail| 20 | Sound of mario dying |
+|!trollsong| 25 | Plays a happy troll song |
+|!applause| 25 | Audience applauses |
+|!knock| 25 | Crazy realistic knocking sound to scare Rove |
+|!cry| 25 | Sound of a baby crying |
+|!rooster| 15 | Sound of a rooster crowing |
 
 ## Video effects:
 
