@@ -9,7 +9,7 @@ To check your points use !points
 
 ## Sound effects:
 
-| Command | Cost (points) | What? |
+| Command | Cost (points) | Effect |
 |:-----:|:-----:|:-----:|
 |!grenaderight| 25 | Realistic grenade landing at Rove's feet coming in from the right |
 |!stepsdown| 25 | Realistic steps heard by Rove downstairs in a building |
@@ -26,7 +26,7 @@ To check your points use !points
 
 ## Video effects:
 
-| Command | Cost (points) | What? |
+| Command | Cost (points) | Effect |
 |:-----:|:-----:|:-----:|
 |!rovemania| 100 | Rove rips up his shirt and out comes the chickendinner surprise! |
 |!nochicken| 50 | Mysterious lady comes in and is disappointed with yet again no chicken |
