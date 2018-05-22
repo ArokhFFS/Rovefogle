@@ -12,7 +12,7 @@ Video effects cost 50pts
 
 * !grenaderight   (25pts)   Realistic grenade landing at Rove's feet coming in from the right
 * !stepsdown      (25pts)   Realistic steps heard by Rove downstairs in a building
-* !stepsup        (25pts)   Realistic steps heard by Rove upstairs in a building.
+* !stepsup        (25pts)   Realistic steps heard by Rove upstairs in a building.s
 * !buggy          (25pts)   Realistic sound of a buggy appoaching a building.
 * !rumble         (25pts)   LET'S GET READY TO RUMBLEEEEE.
 * !silencedshots  (25pts)   Realistic shots wizzing by rovefogle's head.
