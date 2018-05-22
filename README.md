@@ -15,7 +15,7 @@ Video effects cost 50pts
 * !stepsup        (25pts) Realistic steps heard by Rove upstairs in a building.
 * !buggy          (25pts) Realistic sound of a buggy appoaching a building.
 * !rumble         (25pts) LET'S GET READY TO RUMBLEEEEE.
-* !silencedshots  (25pts) Realistic shots wizzing by rovefogle's head.
+* !silencedshots  (25pts) Realistic shots wizzing by rovefogle's head. s          s
 * !suspense       (25pts) TUN DUN DUUUUUUN.
 * !treeshots      (25pts) Realistic sounds of someone shooting and hitting a tree nearby.
 * !violin         (25pts) Sad violin plays.
