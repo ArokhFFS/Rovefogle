@@ -16,3 +16,6 @@ Video effects cost 50pts
 
 
 ## Video effects:
+
+* s
+* sd
