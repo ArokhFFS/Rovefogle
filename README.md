@@ -21,7 +21,7 @@ Video effects cost 50pts
 * !violin         (25pts)   Sad violin plays.
 * !slrshot        (15pts)   Realistic shot of a silenced SLR gun wizzing by rovefogle's head.
 * !reload         (15pts)   Realistic sound is heard by Rovefogle of a guy reloading nearby.
-* !helmet nice    (10pts)   Arokh says nice!
+* !helmet nice    (10pts)   Arokh says nice!	
 
 ## Video effects:
 
