@@ -40,7 +40,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!knock| 25 | Crazy realistic knocking sound to scare Rove |
 |!bombastic| 25 | Song Mr. Bombastic plays |
 |!suckadick| 25 | Song about sucking dick  |
-|!hefuckedup 25 | It was at this moment he knew, he fucked up. |
+|!hefuckedup| 25 | It was at this moment he knew, he fucked up. |
 |!patrick| 25 | NO THIS IS PATRICK! |
 |!chargetrumpet| 25 | Trumpet plays charging tune|
 |!johncena| 25 | Plays John Cena entrance song |
