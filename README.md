@@ -24,20 +24,11 @@ You can use the points to trigger special effects on Rove's stream.
 |!keepthechange| 20 | Keep the change you filthy animal |
 |!bestfriends| 20 | What, did we just become best friends? YEP! |
 |!mariofail| 20 | Sound of mario dying |
-|!grenaderight| 25 | Realistic grenade landing at Rove's feet coming in from the right |
-|!stepsdown| 25 | Realistic steps heard by Rove downstairs in a building |
-|!stepsup| 25 | Realistic steps heard by Rove upstairs in a building |
-|!buggy| 25 | Realistic sound of a buggy appoaching a building |
 |!rumble| 25 | LET'S GET READY TO RUMBLEEEEE |
-|!silencedshots| 25 | Realistic shots wizzing by Rove's head |
 |!suspense| 25 | TUN DUN DUUUUUUN |
-|!treeshots| 25 | Realistic sounds of someone shooting and hitting a tree nearby |
 |!violin| 25 | Sad violin plays |
-|!slrshot| 25 | Realistic shot of a silenced SLR gun wizzing by Rove's head |
-|!reload| 25 | Realistic sound is heard by Rove of a guy reloading nearby |
 |!trollsong| 25 | Plays a happy troll song |
 |!applause| 25 | Audience applauses |
-|!knock| 25 | Crazy realistic knocking sound to scare Rove |
 |!bombastic| 25 | Song Mr. Bombastic plays |
 |!suckadick| 25 | Song about sucking dick  |
 |!hefuckedup| 25 | It was at this moment he knew, he fucked up. |
@@ -62,13 +53,22 @@ You can use the points to trigger special effects on Rove's stream.
 |!awmshot| 25 | The sound of an AWM nearly hitting Rovefogle |
 |!beastcarleft| 25 | The sound of a Mirado approaching from the left side |
 |!beastcarright| 25 | The sound of a Mirado approading from the right side |
+|!buggy| 25 | Realistic sound of a buggy appoaching a building |
 |!flashbang| 25 | The sound of a flashbang landing at Rovefogle's feet |
+|!grenaderight| 25 | Realistic grenade landing at Rove's feet coming in from the right |
 |!hippiebus| 25 | The sound of an approaching hippiebus |
+|!knock| 25 | Crazy realistic knocking sound to scare Rove |
 |!s12k| 25 | The sound of s12k shots rapidly fired at Rovefogle |
 |!sawed| 25 | The sound of a sawed off shotgun fired at Rovefogle |
 |!pumpshot1| 25 | Rovefogle getting hit by a pump shotgun |
 |!pumpshot2| 25 | Rovefogle getting hit with more pump shotgun shells |
+|!reload| 25 | Realistic sound is heard by Rove of a guy reloading nearby |
+|!silencedshots| 25 | Realistic shots wizzing by Rove's head |
+|!slrshot| 25 | Realistic shot of a silenced SLR gun wizzing by Rove's head |
 |!stairsteps| 25 | Someone walking above Rovefogle on stairs and JUMPS! |
+|!stepsdown| 25 | Realistic steps heard by Rove downstairs in a building |
+|!stepsup| 25 | Realistic steps heard by Rove upstairs in a building |
+|!treeshots| 25 | Realistic sounds of someone shooting and hitting a tree nearby |
 |!uazleft| 25 | UAZ approaching from the left side |
 |!vault| 25 | Someone vaults out a window nearby |
 
