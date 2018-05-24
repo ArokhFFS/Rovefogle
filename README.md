@@ -50,6 +50,28 @@ You can use the points to trigger special effects on Rove's stream.
 |!shame| 30 | Game of Thrones Shame bell + voice |
 |!imapotato| 50 | Song about how potato I am |
 
+## PUBG Sound effects:
+
+| Command | Cost (points) | Effect |
+|:-----:|:-----:|:-----:|
+|!aughits| 25 | The sound of a suppressed AUG hitting Rovefogle |
+|!augshots| 25 | The sound of a suppressed AUG nearly hitting Rovefogle |
+|!augspray| 25 | The sound of an AUG spraying next to Rovefogle |
+|!augspraysilent| 25 | The sound of a suppressed AUG spraying next to Rovefogle |
+|!awmhit| 25 | The sound of an AWM hitting Rovefogle |
+|!awmshot| 25 | The sound of an AWM nearly hitting Rovefogle |
+|!beastcarleft| 25 | The sound of a Mirado approaching from the left side |
+|!beastcarright| 25 | The sound of a Mirado approading from the right side |
+|!flashbang| 25 | The sound of a flashbang landing at Rovefogle's feet |
+|!hippiebus| 25 | The sound of an approaching hippiebus |
+|!s12k| 25 | The sound of s12k shots rapidly fired at Rovefogle |
+|!sawed| 25 | The sound of a sawed off shotgun fired at Rovefogle |
+|!pumpshot1| 25 | Rovefogle getting hit by a pump shotgun |
+|!pumpshot2| 25 | Rovefogle getting hit with more pump shotgun shells |
+|!stairsteps| 25 | Someone walking above Rovefogle on stairs and JUMPS! |
+|!uazleft| 25 | UAZ approaching from the left side |
+|!vault| 25 | Someone vaults out a window nearby |
+
 
 ## Video effects:
 
