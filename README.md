@@ -14,11 +14,15 @@ You can use the points to trigger special effects on Rove's stream.
 |!dontbullshitme| 10 | Arnold says "come on don't bullshit me" |
 |!doorbell| 10 | Sound of a doorbell |
 |!helmetnice| 10 | Arokh says nice! |
+|!banned| 15 | You were banned from this server|
 |!deeptrouble| 15 | Arnold says "One of us is in.. deep trouble" |
 |!fluffy| 15 | He's so fluffy i'm gonna die, FLUFFY! |
+|!gotcha| 15 | Dave chapelle says "gotcha bitch!" |
 |!headshot2| 15 | HEADSHOT |
 |!rooster| 15 | Sound of a rooster crowing |
 |!bestfriends| 20 | What, did we just become best friends? YEP! |
+|!ifeelgood| 20 | Woah, I feel good nananana! |
+|!justdoit| 20 | Shia labeouf says JUST DO IT! |
 |!keepthechange| 20 | Keep the change you filthy animal |
 |!mariofail| 20 | Sound of mario dying |
 |!sadtrombone| 20 | Sad trombone plays a failing sound |
@@ -34,11 +38,13 @@ You can use the points to trigger special effects on Rove's stream.
 |!notyourbusiness| 25 | "I hardly think that's any of your business". |
 |!patrick| 25 | NO THIS IS PATRICK! |
 |!rumble| 25 | LET'S GET READY TO RUMBLEEEEE |
+|!sexysax| 25 | Sexy saxophone song plays |
 |!suckadick| 25 | Song about sucking dick  |
 |!suspense| 25 | TUN DUN DUUUUUUN |
 |!trollsong| 25 | Plays a happy troll song |
 |!violin| 25 | Sad violin plays |
 |!shame| 30 | Game of Thrones Shame bell + voice |
+|!pirate| 35 | You are a pirate song plays|
 |!imapotato| 50 | Song about how potato I am |
 
 ## PUBG Sound effects:
