@@ -11,33 +11,33 @@ You can use the points to trigger special effects on Rove's stream.
 
 | Command | Cost (points) | Effect |
 |:-----:|:-----:|:-----:|
-|!doorbell| 10 | Sound of a doorbell |
 |!dontbullshitme| 10 | Arnold says "come on don't bullshit me" |
+|!doorbell| 10 | Sound of a doorbell |
 |!helmetnice| 10 | Arokh says nice! |
-|!rooster| 15 | Sound of a rooster crowing |
 |!deeptrouble| 15 | Arnold says "One of us is in.. deep trouble" |
 |!fluffy| 15 | He's so fluffy i'm gonna die, FLUFFY! |
 |!headshot2| 15 | HEADSHOT |
+|!rooster| 15 | Sound of a rooster crowing |
+|!bestfriends| 20 | What, did we just become best friends? YEP! |
+|!keepthechange| 20 | Keep the change you filthy animal |
+|!mariofail| 20 | Sound of mario dying |
+|!sadtrombone| 20 | Sad trombone plays a failing sound |
 |!sixhourslater| 20 | Voice says "six and a half hours later" |
 |!stevecarell| 20 | Steve Carell makes random noises. (Bruce Almighty) |
-|!sadtrombone| 20 | Sad trombone plays a failing sound |
-|!keepthechange| 20 | Keep the change you filthy animal |
-|!bestfriends| 20 | What, did we just become best friends? YEP! |
-|!mariofail| 20 | Sound of mario dying |
-|!rumble| 25 | LET'S GET READY TO RUMBLEEEEE |
-|!suspense| 25 | TUN DUN DUUUUUUN |
-|!violin| 25 | Sad violin plays |
-|!trollsong| 25 | Plays a happy troll song |
 |!applause| 25 | Audience applauses |
 |!bombastic| 25 | Song Mr. Bombastic plays |
-|!suckadick| 25 | Song about sucking dick  |
-|!hefuckedup| 25 | It was at this moment he knew, he fucked up. |
-|!patrick| 25 | NO THIS IS PATRICK! |
 |!chargetrumpet| 25 | Trumpet plays charging tune|
-|!johncena| 25 | Plays John Cena entrance song |
-|!deaddream| 25 | Donald says "The American dream.. is dead". |
-|!notyourbusiness| 25 | "I hardly think that's any of your business". |
 |!cry| 25 (sub-only) | Sound of a baby crying |
+|!deaddream| 25 | Donald says "The American dream.. is dead". |
+|!hefuckedup| 25 | It was at this moment he knew, he fucked up. |
+|!johncena| 25 | Plays John Cena entrance song |
+|!notyourbusiness| 25 | "I hardly think that's any of your business". |
+|!patrick| 25 | NO THIS IS PATRICK! |
+|!rumble| 25 | LET'S GET READY TO RUMBLEEEEE |
+|!suckadick| 25 | Song about sucking dick  |
+|!suspense| 25 | TUN DUN DUUUUUUN |
+|!trollsong| 25 | Plays a happy troll song |
+|!violin| 25 | Sad violin plays |
 |!shame| 30 | Game of Thrones Shame bell + voice |
 |!imapotato| 50 | Song about how potato I am |
 
