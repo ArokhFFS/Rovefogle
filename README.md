@@ -14,6 +14,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!dontbullshitme| 10 | Arnold says "come on don't bullshit me" |
 |!doorbell| 10 | Sound of a doorbell |
 |!helmetnice| 10 | Arokh says nice! |
+|!nice| 10 | "Click Noice" |
 |!banned| 15 | You were banned from this server|
 |!deeptrouble| 15 | Arnold says "One of us is in.. deep trouble" |
 |!fluffy| 15 | He's so fluffy i'm gonna die, FLUFFY! |
@@ -21,6 +22,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!headshot2| 15 | HEADSHOT |
 |!rooster| 15 | Sound of a rooster crowing |
 |!bestfriends| 20 | What, did we just become best friends? YEP! |
+|!cantbelieve| 20 | I can't believe you've done this |
 |!ifeelgood| 20 | Woah, I feel good nananana! |
 |!justdoit| 20 | Shia labeouf says JUST DO IT! |
 |!keepthechange| 20 | Keep the change you filthy animal |
