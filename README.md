@@ -102,5 +102,5 @@ You can use the points to trigger special effects on Rove's stream.
 |!onlygame| 50 | Rovefogle asks why Rovefogle has to be mad, it's only a game! |
 |!yousuck| 50 | Rove comes in and tells Rovefogle he sucks |
 |!rovemania| 100 (sub-only) | Rove rips up his shirt and out comes the chickendinner surprise! | 
-|!blood| 250 | Rovefogle smells blood (Due to "graphic" content i am awaiting twitch-staff's approval first) |
+|!blood| 250 (not active) | Rovefogle smells blood (Due to "graphic" content i am awaiting twitch-staff's approval first) |
 
