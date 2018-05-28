@@ -20,6 +20,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!fluffy| 15 | He's so fluffy i'm gonna die, FLUFFY! |
 |!gotcha| 15 | Dave chapelle says "gotcha bitch!" |
 |!headshot2| 15 | HEADSHOT |
+|!iloveyou| 15 | To let Rovefogle know you love him |
 |!rooster| 15 | Sound of a rooster crowing |
 |!bestfriends| 20 | What, did we just become best friends? YEP! |
 |!cantbelieve| 20 | I can't believe you've done this |
@@ -37,6 +38,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!dangerous| 25 | Papafogle warns Rovefogle to get out of there! |
 |!deaddream| 25 | Donald says "The American dream.. is dead". |
 |!hefuckedup| 25 | It was at this moment he knew, he fucked up. |
+|!hellodarkness| 25 | Simon & garfunkel play hello darkness |
 |!johncena| 25 | Plays John Cena entrance song |
 |!kickass| 25 | Papafogle announces that Rovefogle is about to kick some ass |
 |!notyourbusiness| 25 | "I hardly think that's any of your business". |
@@ -45,6 +47,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!sexysax| 25 | Sexy saxophone song plays |
 |!suckadick| 25 | Song about sucking dick  |
 |!suspense| 25 | TUN DUN DUUUUUUN |
+|!tonofloot| 25 | You let Rovefogle know there will be a ton of loot |
 |!trollsong| 25 | Plays a happy troll song |
 |!violin| 25 | Sad violin plays |
 |!shame| 30 | Game of Thrones Shame bell + voice |
