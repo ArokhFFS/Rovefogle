@@ -87,7 +87,6 @@ You can use the points to trigger special effects on Rove's stream.
 
 | Command | Cost (points) | Effect |
 |:-----:|:-----:|:-----:|
-|!dance| 30 | Rove's dance (attempt) |
 |!rule1| 35 (sub-only) | Rove comes in and explains rule number one |
 |!rule2| 35 | Rove comes in and explains rule number two |
 |!seinfeld| 35 | Credits to seinfeld starts playing |
@@ -103,4 +102,4 @@ You can use the points to trigger special effects on Rove's stream.
 |!yousuck| 50 | Rove comes in and tells Rovefogle he sucks |
 |!rovemania| 100 (sub-only) | Rove rips up his shirt and out comes the chickendinner surprise! | 
 |!blood| 250 (not active) | Rovefogle smells blood (Due to "possibly graphic" content i am awaiting twitch-staff's approval first) |
-
+|!dance| 300 (sub only) | Rove's dance and playback party |
