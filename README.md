@@ -29,6 +29,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!justdoit| 20 | Shia labeouf says JUST DO IT! |
 |!keepthechange| 20 | Keep the change you filthy animal |
 |!mariofail| 20 | Sound of mario dying |
+|!rekt| 20 | Rick says "riggety riggety rekt son!" |
 |!sadtrombone| 20 | Sad trombone plays a failing sound |
 |!sixhourslater| 20 | Voice says "six and a half hours later" |
 |!stevecarell| 20 | Steve Carell makes random noises. (Bruce Almighty) |
