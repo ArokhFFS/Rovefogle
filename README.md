@@ -15,6 +15,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!doorbell| 10 | Sound of a doorbell |
 |!helmetnice| 10 | Arokh says nice! |
 |!nice| 10 | "Click Noice" |
+|!ohmy| 10 | George Takei saying "oh my" |
 |!banned| 15 | You were banned from this server|
 |!deeptrouble| 15 | Arnold says "One of us is in.. deep trouble" |
 |!fluffy| 15 | He's so fluffy i'm gonna die, FLUFFY! |
