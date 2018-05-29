@@ -25,6 +25,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!rooster| 15 | Sound of a rooster crowing |
 |!bestfriends| 20 | What, did we just become best friends? YEP! |
 |!blame| 20 | You're blaming me for something you did to yourself! |
+|!candy| 20 | "oeh piece of candy" |
 |!cantbelieve| 20 | I can't believe you've done this |
 |!ifeelgood| 20 | Woah, I feel good nananana! |
 |!justdoit| 20 | Shia labeouf says JUST DO IT! |
