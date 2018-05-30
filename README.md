@@ -109,6 +109,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!nochicken| 50 | Mysterious lady comes in and is disappointed with yet again no chicken |
 |!onlygame| 50 | Rovefogle asks why Rovefogle has to be mad, it's only a game! |
 |!yousuck| 50 | Rove comes in and tells Rovefogle he sucks |
+|!theugly| 100 | Rove plays the ugly from the movie "the good the bad and the ugly" |
 |!rovemania| 100 (sub-only) | Rove rips up his shirt and out comes the chickendinner surprise! | 
 |!blood| 250 (not active) | Rovefogle smells blood (Due to "possibly graphic" content i am awaiting twitch-staff's approval first) |
 |!dance| 300 (sub only) | Rove's dance and playback party |
