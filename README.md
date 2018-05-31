@@ -30,6 +30,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!ifeelgood| 20 | Woah, I feel good nananana! |
 |!justdoit| 20 | Shia labeouf says JUST DO IT! |
 |!keepthechange| 20 | Keep the change you filthy animal |
+|!ktfo| 20 | "You got ktfo, bitch" |
 |!mariofail| 20 | Sound of mario dying |
 |!questions| 20 | Arnold says "i want to ask you some questions" |
 |!rekt| 20 | Rick says "riggety riggety rekt son!" |
