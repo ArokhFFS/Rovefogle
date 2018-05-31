@@ -108,6 +108,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!disappointed| 50 | Mamafogle is very disappointed with Rove |
 |!headshot| 50 | Rove comes in and says HEADSHOOOT |
 |!jimb0| 50 | it's pronounced.... |
+|!ninja| 50 | If light travels so fast... |
 |!nochicken| 50 | Mysterious lady comes in and is disappointed with yet again no chicken |
 |!onlygame| 50 | Rovefogle asks why Rovefogle has to be mad, it's only a game! |
 |!yousuck| 50 | Rove comes in and tells Rovefogle he sucks |
