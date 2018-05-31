@@ -43,6 +43,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!cry| 25 (sub-only) | Sound of a baby crying |
 |!dangerous| 25 | Papafogle warns Rovefogle to get out of there! |
 |!deaddream| 25 | Donald says "The American dream.. is dead". |
+|!fantastic| 25 | Nanananana fantastic baby! |
 |!hallelujah| 25 | Hallelujah song plays |
 |!hefuckedup| 25 | It was at this moment he knew, he fucked up |
 |!hellodarkness| 25 | Simon & garfunkel play hello darkness |
