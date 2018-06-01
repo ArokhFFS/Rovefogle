@@ -98,6 +98,7 @@ You can use the points to trigger special effects on Rove's stream.
 
 | Command | Cost (points) | Effect |
 |:-----:|:-----:|:-----:|
+|!killme| 35 | kill me? you can try. |
 |!rule1| 35 (sub-only) | Rove comes in and explains rule number one |
 |!rule2| 35 | Rove comes in and explains rule number two |
 |!seinfeld| 35 | Credits to seinfeld starts playing |
@@ -106,6 +107,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!chicken| 50 | Rovefogle comes out and suggests we should get some chicken. |
 |!dayum| 50 | Rove comes in and says DAYUM |
 |!disappointed| 50 | Mamafogle is very disappointed with Rove |
+|!gabriella| 50 (sub-only) | Gabriella is here, let's party! |
 |!headshot| 50 | Rove comes in and says HEADSHOOOT |
 |!jimb0| 50 | it's pronounced.... |
 |!ninja| 50 | If light travels so fast... |
