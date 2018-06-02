@@ -38,6 +38,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!sadtrombone| 20 | Sad trombone plays a failing sound |
 |!sixhourslater| 20 | Voice says "six and a half hours later" |
 |!stevecarell| 20 | Steve Carell makes random noises. (Bruce Almighty) |
+|!why| 20 | Patrick asks "WHY DOES THIS KEEP HAPPENING TO ME?" |
 |!applause| 25 | Audience applauses |
 |!bombastic| 25 | Song Mr. Bombastic plays |
 |!chargetrumpet| 25 | Trumpet plays charging tune|
