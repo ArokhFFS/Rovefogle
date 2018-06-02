@@ -117,5 +117,5 @@ You can use the points to trigger special effects on Rove's stream.
 |!theugly| 100 | Rove plays the ugly from the movie "the good the bad and the ugly" |
 |!rovemania| 100 (sub-only) | Rove rips up his shirt and out comes the chickendinner surprise! | 
 |!villain| 100 | Something special.. |
-|!blood| 250 (not active) | Rovefogle smells blood (Due to "possibly graphic" content i am awaiting twitch-staff's approval first) |
+|!blood| 250 | Rovefogle smells blood (now active with a more viewer friendly twist). |
 |!dance| 300 (sub only) | Rove's dance and playback party |
