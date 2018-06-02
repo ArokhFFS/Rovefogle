@@ -27,6 +27,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!blame| 20 | You're blaming me for something you did to yourself! |
 |!candy| 20 | "oeh piece of candy" |
 |!cantbelieve| 20 | I can't believe you've done this |
+|!chatcheering| 20 | the sound everyone in twitch chat makes when they cheer for Rove. |
 |!ifeelgood| 20 | Woah, I feel good nananana! |
 |!justdoit| 20 | Shia labeouf says JUST DO IT! |
 |!keepthechange| 20 | Keep the change you filthy animal |
