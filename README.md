@@ -25,6 +25,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!rooster| 15 | Sound of a rooster crowing |
 |!bestfriends| 20 | What, did we just become best friends? YEP! |
 |!blame| 20 | You're blaming me for something you did to yourself! |
+|!camper| 20 | "Murdered? who in the world would want to kill a camper?" |
 |!candy| 20 | "oeh piece of candy" |
 |!cantbelieve| 20 | I can't believe you've done this |
 |!chatcheering| 20 | the sound everyone in twitch chat makes when they cheer for Rove. |
