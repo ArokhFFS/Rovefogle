@@ -63,6 +63,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!trollsong| 25 | Plays a happy troll song |
 |!violin| 25 | Sad violin plays |
 |!shame| 30 | Game of Thrones Shame bell + voice |
+|!dust| 35 | Another one bites the dust. |
 |!pirate| 35 | You are a pirate song plays|
 |!imapotato| 50 | Song about how potato I am |
 
