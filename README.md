@@ -65,6 +65,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!shame| 30 | Game of Thrones Shame bell + voice |
 |!dust| 35 | Another one bites the dust. |
 |!pirate| 35 | You are a pirate song plays|
+|!what| 35 | WHAT ARE YOU DOING?|
 |!imapotato| 50 | Song about how potato I am |
 
 ## PUBG Sound effects:
