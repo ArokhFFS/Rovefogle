@@ -56,6 +56,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!letitgo| 25 | Let it go Rovefogle, let it go. |
 |!notyourbusiness| 25 | "I hardly think that's any of your business" |
 |!patrick| 25 | NO THIS IS PATRICK! |
+|!rockyou| 25 | WE WILL, WE WILL, ROCK YOU. |
 |!rumble| 25 | LET'S GET READY TO RUMBLEEEEE |
 |!sexysax| 25 | Sexy saxophone song plays |
 |!suckadick| 25 | Song about sucking dick  |
