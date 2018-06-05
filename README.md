@@ -53,6 +53,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!hellodarkness| 25 | Simon & garfunkel play hello darkness |
 |!johncena| 25 | Plays John Cena entrance song |
 |!kickass| 25 | Papafogle announces that Rovefogle is about to kick some ass |
+|!letitgo| 25 | Let it go Rovefogle, let it go. |
 |!notyourbusiness| 25 | "I hardly think that's any of your business" |
 |!patrick| 25 | NO THIS IS PATRICK! |
 |!rumble| 25 | LET'S GET READY TO RUMBLEEEEE |
