@@ -36,11 +36,13 @@ You can use the points to trigger special effects on Rove's stream.
 |!keepthechange| 20 | Keep the change you filthy animal |
 |!ktfo| 20 | "You got ktfo, bitch" |
 |!mariofail| 20 | Sound of mario dying |
+|!notadoctor| 20 | Will Ferrell says "You're not a doctor, you're a big...." |
 |!noone| 20 | No one has ever done that. |
 |!questions| 20 | Arnold says "i want to ask you some questions" |
 |!rekt| 20 | Rick says "riggety riggety rekt son!" |
 |!sadtrombone| 20 | Sad trombone plays a failing sound |
 |!sixhourslater| 20 | Voice says "six and a half hours later" |
+|!sofunny| 20 | "haha that's so funny the last time i heard that i......." |
 |!stevecarell| 20 | Steve Carell makes random noises. (Bruce Almighty) |
 |!whatswrong| 20 | Hey, what's wrong with you? |
 |!why| 20 | Patrick asks "WHY DOES THIS KEEP HAPPENING TO ME? |
