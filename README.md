@@ -123,6 +123,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!rule2| 35 | Rove comes in and explains rule number two |
 |!seinfeld| 35 | Credits to seinfeld starts playing |
 |!starwars| 35 | Credits to starwars start playing with a twist |
+|!beauty| 40 | Rovefogle is beautiful, no matter what they say. |
 |!arokh| 50 | Arokh in the house!!! |
 |!chicken| 50 | Rovefogle comes out and suggests we should get some chicken. |
 |!disappointed| 50 | Mamafogle is very disappointed with Rove |
