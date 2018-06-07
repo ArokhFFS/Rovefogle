@@ -76,6 +76,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!pirate| 35 | You are a pirate song plays|
 |!what| 35 | WHAT ARE YOU DOING?|
 |!imapotato| 50 | Song about how potato I am |
+|!appropriation (sub-only)| 100 | Rant about how stupid cultural appropriation is. |
 
 ## PUBG Sound effects:
 
@@ -133,4 +134,4 @@ You can use the points to trigger special effects on Rove's stream.
 |!rovemania| 100 (sub-only) | Rove rips up his shirt and out comes the chickendinner surprise! | 
 |!villain| 100 | Something special.. |
 |!blood| 250 | Rovefogle smells blood (now active with a more viewer friendly twist). |
-|!dance| 300 (sub only) | Rove's dance and playback party |
+|!dance| 300 (sub-only) | Rove's dance and playback party |
