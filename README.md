@@ -31,6 +31,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!cantbelieve| 20 | I can't believe you've done this |
 |!chatcheering| 20 | the sound everyone in twitch chat makes when they cheer for Rove. |
 |!dead| 20 | Dude, bad news, you're dead. |
+|!fuckoff| 20 | If you don't like people & cities then... |
 |!hot| 20 | Argh, hot hot hot, hot hot hot! |
 |!ifeelgood| 20 | Woah, I feel good nananana! |
 |!justdoit| 20 | Shia labeouf says JUST DO IT! |
