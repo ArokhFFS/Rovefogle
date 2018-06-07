@@ -34,6 +34,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!fuckoff| 20 | If you don't like people & cities then... |
 |!hot| 20 | Argh, hot hot hot, hot hot hot! |
 |!ifeelgood| 20 | Woah, I feel good nananana! |
+|!incestfreak| 20 | "what fucking bullshit, fuck you, you fucking incest freak!" -WhosHarley. |
 |!justdoit| 20 | Shia labeouf says JUST DO IT! |
 |!keepthechange| 20 | Keep the change you filthy animal |
 |!ktfo| 20 | "You got ktfo, bitch" |
