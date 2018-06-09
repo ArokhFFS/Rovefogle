@@ -39,6 +39,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!keepthechange| 20 | Keep the change you filthy animal |
 |!ktfo| 20 | "You got ktfo, bitch" |
 |!mariofail| 20 | Sound of mario dying |
+|!men| 20 | Wow, this really separates the men from the boys. |
 |!notadoctor| 20 | Will Ferrell says "You're not a doctor, you're a big...." |
 |!noone| 20 | No one has ever done that. |
 |!questions| 20 | Arnold says "i want to ask you some questions" |
