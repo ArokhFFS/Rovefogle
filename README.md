@@ -53,6 +53,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!why| 20 | Patrick asks "WHY DOES THIS KEEP HAPPENING TO ME? |
 |!applause| 25 | Audience applauses |
 |!bombastic| 25 | Song Mr. Bombastic plays |
+|!brick| 25 | He would throw a brick through the window & arrested. |
 |!chargetrumpet| 25 | Trumpet plays charging tune|
 |!cry| 25 (sub-only) | Sound of a baby crying |
 |!dangerous| 25 | Papafogle warns Rovefogle to get out of there! |
