@@ -75,6 +75,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!suspense| 25 | TUN DUN DUUUUUUN |
 |!tonofloot| 25 | You let Rovefogle know there will be a ton of loot |
 |!trollsong| 25 | Plays a happy troll song |
+|!vegan| 25 | What are the odds Joe? |
 |!violin| 25 | Sad violin plays |
 |!shame| 30 | Game of Thrones Shame bell + voice |
 |!dust| 35 | Another one bites the dust. |
