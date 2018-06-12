@@ -129,6 +129,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!beauty| 40 | Rovefogle is beautiful, no matter what they say. |
 |!arokh| 50 | Arokh in the house!!! |
 |!chicken| 50 | Rovefogle comes out and suggests we should get some chicken. |
+|!cuffs| 50 | Rovefogle can break these cuffs. |
 |!disappointed| 50 | Mamafogle is very disappointed with Rove |
 |!gabriella| 50 (sub-only) | Gabriella is here, let's party! |
 |!headshot| 50 | Rove comes in and says HEADSHOOOT |
