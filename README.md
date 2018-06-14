@@ -23,6 +23,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!headshot2| 15 | HEADSHOT |
 |!iloveyou| 15 | To let Rovefogle know you love him |
 |!rooster| 15 | Sound of a rooster crowing |
+|!triple| 15 | Oh baby a triple, oh yeah! |
 |!vitas| 15 | proper cringey sounds. |
 |!bestfriends| 20 | What, did we just become best friends? YEP! |
 |!blame| 20 | You're blaming me for something you did to yourself! |
