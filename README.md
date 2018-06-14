@@ -74,6 +74,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!smooth| 25 | Michael Jackson tells us that someone has been hit by a smooth criminal. |
 |!suckadick| 25 | Song about sucking dick  |
 |!suspense| 25 | TUN DUN DUUUUUUN |
+|!thebest| 25 | I wanna be the very best, like noone ever was. |
 |!tonofloot| 25 | You let Rovefogle know there will be a ton of loot |
 |!trollsong| 25 | Plays a happy troll song |
 |!vegan| 25 | What are the odds Joe? |
