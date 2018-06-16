@@ -85,6 +85,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!dust| 35 | Another one bites the dust. |
 |!pirate| 35 | You are a pirate song plays|
 |!what| 35 | WHAT ARE YOU DOING?|
+|!sherlock| 40 | Sherlock Theme plays |
 |!imapotato| 50 | Song about how potato I am |
 |!appropriation (sub-only)| 100 | Rant about how stupid cultural appropriation is. |
 
