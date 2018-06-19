@@ -127,6 +127,7 @@ You can use the points to trigger special effects on Rove's stream.
 
 | Command | Cost (points) | Effect |
 |:-----:|:-----:|:-----:|
+|!fun| 20| The fun has been doubled! |
 |!dayum| 30 | Rove comes in and says DAYUM |
 |!killme| 35 | kill me? you can try. |
 |!rule1| 35 (sub-only) | Rove comes in and explains rule number one |
