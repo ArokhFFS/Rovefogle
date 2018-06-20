@@ -19,6 +19,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!banned| 15 | You were banned from this server|
 |!cashme| 15 | Cash me ousside, how bouh dah?|
 |!deeptrouble| 15 | Arnold says "One of us is in.. deep trouble" |
+|!finish| 15 | Mortal Kombat "FINISH HIM" |
 |!fluffy| 15 | He's so fluffy i'm gonna die, FLUFFY! |
 |!gotcha| 15 | Dave chapelle says "gotcha bitch!" |
 |!headshot2| 15 | HEADSHOT |
