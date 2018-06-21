@@ -158,5 +158,5 @@ You can use the points to trigger special effects on Rove's stream.
 |!villain| 100 | Something special.. |
 |!blood| 250 | Rovefogle smells blood (now active with a more viewer friendly twist). |
 |!dance| 300 (sub-only) | Rove's dance and playback party |
-|!ahhhhh| 1000 (sub-only) | Some screaming Cowboii. |
+|!ahhhhh| 400 (sub-only) | Some screaming Cowboii. |
 |!new| (MOD-ONLY) | Channel introducing video for new users |
