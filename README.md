@@ -23,7 +23,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!fluffy| 15 | He's so fluffy i'm gonna die, FLUFFY! |
 |!gotcha| 15 | Dave chapelle says "gotcha bitch!" |
 |!headshot2| 15 | HEADSHOT |
-|!icant| 15 | Meseeks saying "I can't take it anymore i just wanna die!" |
+|!icant| 15 |Mr. Meeseeks saying "I can't take it anymore i just wanna die!" |
 |!iloveyou| 15 | To let Rovefogle know you love him |
 |!rooster| 15 | Sound of a rooster crowing |
 |!triple| 15 | Oh baby a triple, oh yeah! |
