@@ -69,6 +69,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!hallelujah| 25 | Hallelujah song plays |
 |!hefuckedup| 25 | It was at this moment he knew, he fucked up |
 |!hellodarkness| 25 | Simon & garfunkel play hello darkness |
+|!impact| 25 | Kanye explaining how impactful Rovefogle is |
 |!johncena| 25 | Plays John Cena entrance song |
 |!kickass| 25 | Papafogle announces that Rovefogle is about to kick some ass |
 |!letitgo| 25 | Let it go Rovefogle, let it go. |
