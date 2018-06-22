@@ -94,6 +94,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!sherlock| 40 | Sherlock Theme plays |
 |!imapotato| 50 | Song about how potato I am |
 |!appropriation (sub-only)| 100 | Rant about how stupid cultural appropriation is. |
+|!troll (sub-only)| 120 | Original troll song, STOP TROLLING ME! |
 
 ## PUBG Sound effects:
 
