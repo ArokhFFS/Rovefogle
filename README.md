@@ -92,6 +92,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!what| 35 | WHAT ARE YOU DOING?|
 |!chickensong| 40 | weird chickensong plays.|
 |!sherlock| 40 | Sherlock Theme plays |
+|!tarkan| 40 | Seni gidi findik Kiran, kiss kiss!|
 |!imapotato| 50 | Song about how potato I am |
 |!appropriation (sub-only)| 100 | Rant about how stupid cultural appropriation is. |
 |!troll (sub-only)| 120 | Original troll song, STOP TROLLING ME! |
