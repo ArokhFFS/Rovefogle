@@ -91,6 +91,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!pirate| 35 | You are a pirate song plays|
 |!what| 35 | WHAT ARE YOU DOING?|
 |!chickensong| 40 | weird chickensong plays.|
+|!חדש| 40 | Shira Choir|
 |!sherlock| 40 | Sherlock Theme plays |
 |!tarkan| 40 | Seni gidi findik Kiran, kiss kiss!|
 |!imapotato| 50 | Song about how potato I am |
