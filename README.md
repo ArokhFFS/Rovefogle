@@ -138,7 +138,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!fun| 20| The fun has been doubled! |
 |!dayum| 30 | Rove comes in and says DAYUM |
 |!whatarmy| 30 | Jean claude van Damme asks "you, and what army?" |
-|!killme| 35 | kill me? you can try. |
+|!killme| 35 | kill me? you can try |
 |!rule1| 35 (sub-only) | Rove comes in and explains rule number one |
 |!rule2| 35 | Rove comes in and explains rule number two |
 |!seinfeld| 35 | Credits to seinfeld starts playing |
@@ -148,7 +148,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!weed| 40 | Snoop dogg dances to "smoke weed every day" |
 |!arokh| 50 | Arokh in the house!!! |
 |!chicken| 50 | Rovefogle comes out and suggests we should get some chicken. |
-|!cuffs| 50 | Rovefogle can break these cuffs. |
+|!cuffs| 50 | Rovefogle can break these cuffs |
 |!disappointed| 50 | Mamafogle is very disappointed with Rove |
 |!gabriella| 50 (sub-only) | Gabriella is here, let's party! |
 |!headshot| 50 | Rove comes in and says HEADSHOOOT |
@@ -161,7 +161,9 @@ You can use the points to trigger special effects on Rove's stream.
 |!theugly| 100 | Rove plays the ugly from the movie "the good the bad and the ugly" |
 |!rovemania| 100 (sub-only) | Rove rips up his shirt and out comes the chickendinner surprise! | 
 |!villain| 100 | Something special.. |
-|!blood| 250 | Rovefogle smells blood (now active with a more viewer friendly twist). |
+|!blood| 250 | Rovefogle smells blood (now active with a more viewer friendly twist) |
 |!dance| 300 (sub-only) | Rove's dance and playback party |
-|!ahhhhh| 400 (sub-only) | Some screaming Cowboii. |
+|!ahhhhh| 400 (sub-only) | Some screaming Cowboii |
+|!chickensong2| 500 (sub-only) | Chicken dinner celebration |
+|!kiss| 2000 (sub-only) | Rovefogle falls asleep and has a nice dream |
 |!new| (MOD-ONLY) | Channel introducing video for new users |
