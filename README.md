@@ -36,6 +36,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!chatcheering| 20 | the sound everyone in twitch chat makes when they cheer for Rove. |
 |!dead| 20 | Dude, bad news, you're dead. |
 |!fuckoff| 20 | If you don't like people & cities then... |
+|!hello| 20 | Say hello to the camera. Hello motherf... |
 |!hot| 20 | Argh, hot hot hot, hot hot hot! |
 |!ifeelgood| 20 | Woah, I feel good nananana! |
 |!incestfreak| 20 | "what fucking bullshit, fuck you, you fucking incest freak!" -WhosHarley. |
@@ -57,6 +58,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!sofunny| 20 | "haha that's so funny the last time i heard that i......." |
 |!stevecarell| 20 | Steve Carell makes random noises. (Bruce Almighty) |
 |!whatswrong| 20 | Hey, what's wrong with you? |
+|!whocares| 20 | Peter says "OMG who cares?" |
 |!why| 20 | Patrick asks "WHY DOES THIS KEEP HAPPENING TO ME? |
 |!applause| 25 | Audience applauses |
 |!bombastic| 25 | Song Mr. Bombastic plays |
