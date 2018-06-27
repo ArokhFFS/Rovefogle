@@ -97,6 +97,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!חדש| 40 | Shira Choir|
 |!sherlock| 40 | Sherlock Theme plays |
 |!tarkan| 40 | Seni gidi findik Kiran, kiss kiss!|
+|!shootingstar| 45| Shooting star meme intro |
 |!imapotato| 50 | Song about how potato I am |
 |!appropriation (sub-only)| 100 | Rant about how stupid cultural appropriation is. |
 |!troll (sub-only)| 120 | Original troll song, STOP TROLLING ME! |
