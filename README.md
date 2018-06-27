@@ -25,6 +25,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!headshot2| 15 | HEADSHOT |
 |!icant| 15 |Mr. Meeseeks saying "I can't take it anymore i just wanna die!" |
 |!iloveyou| 15 | To let Rovefogle know you love him |
+|!mywatch| 15 | NOT ON MY WATCH! |
 |!rooster| 15 | Sound of a rooster crowing |
 |!triple| 15 | Oh baby a triple, oh yeah! |
 |!vitas| 15 | proper cringey sounds |
