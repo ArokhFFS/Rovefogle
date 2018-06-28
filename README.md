@@ -14,6 +14,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!dontbullshitme| 10 | Arnold says "come on don't bullshit me" |
 |!doorbell| 10 | Sound of a doorbell |
 |!helmetnice| 10 | Arokh says nice! |
+|!loot| 10 | Let Rovefogle know he forgot some loot (afterwards type in chat what it was) |
 |!nice| 10 | "Click Noice" |
 |!ohmy| 10 | George Takei saying "oh my" |
 |!banned| 15 | You were banned from this server|
