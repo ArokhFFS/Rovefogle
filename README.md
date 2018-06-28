@@ -38,6 +38,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!cantbelieve| 20 | I can't believe you've done this |
 |!chatcheering| 20 | the sound everyone in twitch chat makes when they cheer for Rove. |
 |!dead| 20 | Dude, bad news, you're dead. |
+|!fly| 20 | "I believe i can fly" by R. Kelly |
 |!fuckoff| 20 | If you don't like people & cities then... |
 |!hello| 20 | Say hello to the camera. Hello motherf... |
 |!hot| 20 | Argh, hot hot hot, hot hot hot! |
