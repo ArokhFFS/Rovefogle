@@ -60,6 +60,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!rekt| 20 | Rick says "riggety riggety rekt son!" |
 |!sadtrombone| 20 | Sad trombone plays a failing sound |
 |!sixhourslater| 20 | Voice says "six and a half hours later" |
+|!slowclap| 20 | A group up people slow clapping, they are unimpressed |
 |!sofunny| 20 | "haha that's so funny the last time i heard that i......." |
 |!stevecarell| 20 | Steve Carell makes random noises. (Bruce Almighty) |
 |!whatswrong| 20 | Hey, what's wrong with you? |
@@ -93,6 +94,8 @@ You can use the points to trigger special effects on Rove's stream.
 |!trollsong| 25 | Plays a happy troll song |
 |!vegan| 25 | What are the odds Joe? |
 |!violin| 25 | Sad violin plays |
+|!jaws| 30 | Jaws soundtrack plays |
+|!rickroll| 30 | Rickroll Rovefogle and chat with "never gonna give you up" by Rick Astley |
 |!shame| 30 | Game of Thrones Shame bell + voice |
 |!dust| 35 | Another one bites the dust. |
 |!pirate| 35 | You are a pirate song plays|
