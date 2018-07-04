@@ -182,5 +182,6 @@ You can use the points to trigger special effects on Rove's stream.
 |!dance| 300 (sub-only) | Rove's dance and playback party |
 |!ahhhhh| 400 (sub-only) | Some screaming Cowboii |
 |!chickensong2| 500 (sub-only) | Chicken dinner celebration |
+|!girls| 1500 (sub-only) | "Rovy Lauple" performing her "girls just wanna have fun song"  |
 |!kiss| 2500 (sub-only) | Rovefogle falls asleep and has a nice dream |
 |!new| (MOD-ONLY) | Channel introducing video for new users |
