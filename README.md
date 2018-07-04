@@ -107,10 +107,12 @@ You can use the points to trigger special effects on Rove's stream.
 |!sherlock| 40 | Sherlock Theme plays |
 |!tarkan| 40 | Seni gidi findik Kiran, kiss kiss!|
 |!shootingstar| 45| Shooting star meme intro |
+|!ameno1| 50 | ༼ つ ◕_◕ ༽つAMENO༼ つ ◕_◕ (short piece of the beginning) |
 |!imapotato| 50 | Song about how potato I am |
 |!appropriation (sub-only)| 100 | Rant about how stupid cultural appropriation is |
 |!sadsong| 120 | Sad and epic song plays for when something dramatic happened |
 |!troll (sub-only)| 120 | Original troll song, STOP TROLLING ME! |
+|!ameno2| 140 | ༼ つ ◕_◕ ༽つAMENO༼ つ ◕_◕ (longer piece of the middle bit) |
 
 ## PUBG Sound effects:
 
