@@ -33,6 +33,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!triple| 15 | Oh baby a triple, oh yeah! |
 |!vitas| 15 | proper cringey sounds |
 |!win| 15 | Rovefogle my son, go on and win this one for me ok? |
+|!wreckingball| 15 | I came in like a wreckingball! |
 |!bestfriends| 20 | What, did we just become best friends? YEP! |
 |!blame| 20 | You're blaming me for something you did to yourself! |
 |!camper| 20 | "Murdered? who in the world would want to kill a camper?" |
