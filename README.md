@@ -17,9 +17,10 @@ You can use the points to trigger special effects on Rove's stream.
 |!loot| 10 | Let Rovefogle know he forgot some loot (afterwards type in chat what it was) |
 |!nice| 10 | "Click Noice" |
 |!ohmy| 10 | George Takei saying "oh my" |
-|!schlimsicle| 10 | This is how you pronounce "Schlimsicle" btw.|
+|!schlimsicle| 10 | This is how you pronounce "Schlimsicle" btw|
 |!banned| 15 | You were banned from this server|
 |!cashme| 15 | Cash me ousside, how bouh dah?|
+|!damnson| 15 | Damn son, where'd you find this?|
 |!deeptrouble| 15 | Arnold says "One of us is in.. deep trouble" |
 |!finish| 15 | Mortal Kombat "FINISH HIM" |
 |!fluffy| 15 | He's so fluffy i'm gonna die, FLUFFY! |
