@@ -30,6 +30,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!iloveyou| 15 | To let Rovefogle know you love him |
 |!mywatch| 15 | NOT ON MY WATCH! |
 |!rooster| 15 | Sound of a rooster crowing |
+|!stop| 15 | Spice girls telling Rove to "stop right now, thank you very much" |
 |!triple| 15 | Oh baby a triple, oh yeah! |
 |!vitas| 15 | proper cringey sounds |
 |!win| 15 | Rovefogle my son, go on and win this one for me ok? |
