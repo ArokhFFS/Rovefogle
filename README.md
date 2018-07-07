@@ -67,6 +67,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!sofunny| 20 | "haha that's so funny the last time i heard that i......." |
 |!speech| 20 | Cartman asks "Is he seriously giving a speech right now?" |
 |!stevecarell| 20 | Steve Carell makes random noises. (Bruce Almighty) |
+|!uglymf| 20 | Arnold lets Rove know he's one ugly MF |
 |!whatswrong| 20 | Hey, what's wrong with you? |
 |!whocares| 20 | Peter says "OMG who cares?" |
 |!why| 20 | Patrick asks "WHY DOES THIS KEEP HAPPENING TO ME? |
