@@ -22,13 +22,16 @@ You can use the points to trigger special effects on Rove's stream.
 |!cashme| 15 | Cash me ousside, how bouh dah?|
 |!damnson| 15 | Damn son, where'd you find this?|
 |!deeptrouble| 15 | Arnold says "One of us is in.. deep trouble" |
+|!dies| 15 | Lucian knows that everybody dies, some just need a little help |
 |!finish| 15 | Mortal Kombat "FINISH HIM" |
 |!fluffy| 15 | He's so fluffy i'm gonna die, FLUFFY! |
 |!gotcha| 15 | Dave chapelle says "gotcha bitch!" |
 |!headshot2| 15 | HEADSHOT |
+|!heart| 15 | The Russians know that the heart is the strongest muscle |
 |!icant| 15 |Mr. Meeseeks saying "I can't take it anymore i just wanna die!" |
 |!iloveyou| 15 | To let Rovefogle know you love him |
 |!mywatch| 15 | NOT ON MY WATCH! |
+|!regret| 15 | They will regret opposing Rovefogle |
 |!rooster| 15 | Sound of a rooster crowing |
 |!stop| 15 | Spice girls telling Rove to "stop right now, thank you very much" |
 |!triple| 15 | Oh baby a triple, oh yeah! |
