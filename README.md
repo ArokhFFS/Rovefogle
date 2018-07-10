@@ -54,6 +54,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!justdoit| 20 | Shia labeouf says JUST DO IT! |
 |!keepthechange| 20 | Keep the change you filthy animal |
 |!ktfo| 20 | "You got ktfo, bitch" |
+|!loser| 20 | Tell Rovefogle what he really is |
 |!mariofail| 20 | Sound of mario dying |
 |!men| 20 | Wow, this really separates the men from the boys. |
 |!notadoctor| 20 | Will Ferrell says "You're not a doctor, you're a big...." |
