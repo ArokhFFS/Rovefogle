@@ -187,6 +187,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!villain| 100 | Something special.. |
 |!blood| 250 | Rovefogle smells blood (now active with a more viewer friendly twist) |
 |!dance| 300 (sub-only) | Rove's dance and playback party |
+|!eddie| 300 (sub-only) | Who's that sexy sexy man? It's eddievasellini, eddievasellini baby |
 |!ahhhhh| 400 (sub-only) | Some screaming Cowboii |
 |!chickensong2| 500 (sub-only) | Chicken dinner celebration |
 |!girls| 1500 (sub-only) | "Rovy Lauple" performing her "girls just wanna have fun song"  |
