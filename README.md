@@ -58,6 +58,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!mariofail| 20 | Sound of mario dying |
 |!men| 20 | Wow, this really separates the men from the boys. |
 |!notadoctor| 20 | Will Ferrell says "You're not a doctor, you're a big...." |
+|!notfunny| 20 | Kanye west has something to say about this being either funny or true |
 |!noone| 20 | No one has ever done that. |
 |!ontheroad| 20 | On the road again song by Willie Nelson. |
 |!potter| 20 | Harry potter opening theme. |
