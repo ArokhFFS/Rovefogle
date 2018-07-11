@@ -123,6 +123,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!sadsong| 120 | Sad and epic song plays for when something dramatic happened |
 |!troll (sub-only)| 120 | Original troll song, STOP TROLLING ME! |
 |!ameno2| 140 | ༼ つ ◕_◕ ༽つAMENO༼ つ ◕_◕ (longer piece of the middle bit) |
+|!epicspeech| 250 | Rovefogle bigs up your twitch name in an epic speech |
 
 ## PUBG Sound effects:
 
