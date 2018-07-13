@@ -175,6 +175,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!weed| 40 | Snoop dogg dances to "smoke weed every day" |
 |!arokh| 50 | Arokh in the house!!! |
 |!chicken| 50 | Rovefogle comes out and suggests we should get some chicken. |
+|!chickensuspense| 50 | Should we or should we not get chicken? |
 |!cuffs| 50 | Rovefogle can break these cuffs |
 |!disappointed| 50 | Mamafogle is very disappointed with Rove |
 |!gabriella| 50 (sub-only) | Gabriella is here, let's party! |
