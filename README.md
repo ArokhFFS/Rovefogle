@@ -38,6 +38,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!vitas| 15 | proper cringey sounds |
 |!win| 15 | Rovefogle my son, go on and win this one for me ok? |
 |!wreckingball| 15 | I came in like a wreckingball! |
+|!3hours| 18 | You can stop looking at your watch buddy |
 |!bestfriends| 20 | What, did we just become best friends? YEP! |
 |!blame| 20 | You're blaming me for something you did to yourself! |
 |!camper| 20 | "Murdered? who in the world would want to kill a camper?" |
@@ -92,6 +93,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!kickass| 25 | Papafogle announces that Rovefogle is about to kick some ass |
 |!letitgo| 25 | Let it go Rovefogle, let it go. |
 |!mlg| 25 | MLG horn if you want some attention |
+|!nachoman| 25 | For those who think being macho man is not enough |
 |!nolife| 25 | Does Rovefogle has a life? |
 |!notyourbusiness| 25 | "I hardly think that's any of your business" |
 |!patrick| 25 | NO THIS IS PATRICK! |
@@ -111,6 +113,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!shame| 30 | Game of Thrones Shame bell + voice |
 |!dust| 35 | Another one bites the dust. |
 |!pirate| 35 | You are a pirate song plays|
+|!stopbullying| 35 | Defend Rovefogle from all the bullying he receives|
 |!what| 35 | WHAT ARE YOU DOING?|
 |!chickensong| 40 | weird chickensong plays.|
 |!חדש| 40 | Shira Choir|
