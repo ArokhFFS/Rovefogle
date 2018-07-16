@@ -14,6 +14,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!dontbullshitme| 10 | Arnold says "come on don't bullshit me" |
 |!doorbell| 10 | Sound of a doorbell |
 |!helmetnice| 10 | Arokh says nice! |
+|!jedi| 10 | Who questions Rovefogle's speed and precision? He's a jedi.. |
 |!loot| 10 | Let Rovefogle know he forgot some loot (afterwards type in chat what it was) |
 |!nice| 10 | "Click Noice" |
 |!noway| 10 | Somebody says "No way" Samuel L. Jackson style |
