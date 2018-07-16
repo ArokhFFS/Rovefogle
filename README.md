@@ -69,6 +69,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!redbull| 20 | What the hell is redbull? It's an energy drink! |
 |!rekt| 20 | Rick says "riggety riggety rekt son!" |
 |!sadtrombone| 20 | Sad trombone plays a failing sound |
+|!science| 20 | Magical quote about science (take it lightly, it's a joke) |
 |!sixhourslater| 20 | Voice says "six and a half hours later" |
 |!slowclap| 20 | A group up people slow clapping, they are unimpressed |
 |!sofunny| 20 | "haha that's so funny the last time i heard that i......." |
