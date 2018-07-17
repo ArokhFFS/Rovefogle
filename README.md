@@ -39,6 +39,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!stop| 15 | Spice girls telling Rove to "stop right now, thank you very much" |
 |!triple| 15 | Oh baby a triple, oh yeah! |
 |!vitas| 15 | proper cringey sounds |
+|!whathappened| 15 | Hey, what happened? |
 |!win| 15 | Rovefogle my son, go on and win this one for me ok? |
 |!wreckingball| 15 | I came in like a wreckingball! |
 |!3hours| 18 | You can stop looking at your watch buddy |
