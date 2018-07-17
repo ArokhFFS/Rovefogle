@@ -33,6 +33,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!icant| 15 |Mr. Meeseeks saying "I can't take it anymore i just wanna die!" |
 |!iloveyou| 15 | To let Rovefogle know you love him |
 |!mywatch| 15 | NOT ON MY WATCH! |
+|!omg| 15 | omg |
 |!regret| 15 | They will regret opposing Rovefogle |
 |!rooster| 15 | Sound of a rooster crowing |
 |!stop| 15 | Spice girls telling Rove to "stop right now, thank you very much" |
