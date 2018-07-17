@@ -199,7 +199,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!theugly| 100 | Rove plays the ugly from the movie "the good the bad and the ugly" |
 |!rovemania| 100 (sub-only) | Rove rips up his shirt and out comes the chickendinner surprise! | 
 |!villain| 100 | Something special.. |
-|!badger| 125 | Honeybadger is here |
+|!badger| 125 (sub-only) | Honeybadger is here |
 |!blood| 250 | Rovefogle smells blood (now active with a more viewer friendly twist) |
 |!dance| 300 (sub-only) | Rove's dance and playback party |
 |!eddie| 300 (sub-only) | Who's that sexy sexy man? It's eddievasellini, eddievasellini baby |
