@@ -45,6 +45,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!3hours| 18 | You can stop looking at your watch buddy |
 |!bestfriends| 20 | What, did we just become best friends? YEP! |
 |!blame| 20 | You're blaming me for something you did to yourself! |
+|!breakfast| 20 | What is going on here? |
 |!camper| 20 | "Murdered? who in the world would want to kill a camper?" |
 |!candy| 20 | "oeh piece of candy" |
 |!cantbelieve| 20 | I can't believe you've done this |
