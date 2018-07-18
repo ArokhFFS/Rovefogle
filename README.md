@@ -84,6 +84,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!whatswrong| 20 | Hey, what's wrong with you? |
 |!whocares| 20 | Peter says "OMG who cares?" |
 |!why| 20 | Patrick asks "WHY DOES THIS KEEP HAPPENING TO ME? |
+|!youridea| 20 | Morty says "you need to chill out, this whole thing was your idea in the first place" |
 |!applause| 25 | Audience applauses |
 |!bombastic| 25 | Song Mr. Bombastic plays |
 |!brick| 25 | He would throw a brick through the window & arrested. |
