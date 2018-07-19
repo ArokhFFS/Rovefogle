@@ -74,6 +74,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!radical| 20 | Joe Rogan explaining how radical we are. |
 |!redbull| 20 | What the hell is redbull? It's an energy drink! |
 |!rekt| 20 | Rick says "riggety riggety rekt son!" |
+|!rovechicken| 20 | Use when you think Rovefogle is being a chicken |
 |!sadtrombone| 20 | Sad trombone plays a failing sound |
 |!science| 20 | Magical quote about science (take it lightly, it's a joke) |
 |!sixhourslater| 20 | Voice says "six and a half hours later" |
