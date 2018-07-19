@@ -125,6 +125,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!what| 35 | WHAT ARE YOU DOING?|
 |!chickensong| 40 | weird chickensong plays|
 |!חדש| 40 | Shira Choir|
+|!kazoo| 40 | kazoo taunting troll song plays |
 |!sherlock| 40 | Sherlock Theme plays |
 |!tarkan| 40 | Seni gidi findik Kiran, kiss kiss!|
 |!shootingstar| 45| Shooting star meme intro |
