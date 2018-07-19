@@ -121,7 +121,8 @@ You can use the points to trigger special effects on Rove's stream.
 |!jaws| 30 | Jaws soundtrack plays |
 |!rickroll| 30 | Rickroll Rovefogle and chat with "never gonna give you up" by Rick Astley |
 |!shame| 30 | Game of Thrones Shame bell + voice |
-|!dust| 35 | Another one bites the dust. |
+|!dust| 35 | Another one bites the dust |
+|!peacetune| 35 | A pieceful tune plays|
 |!pirate| 35 | You are a pirate song plays|
 |!stopbullying| 35 | Defend Rovefogle from all the bullying he receives|
 |!what| 35 | WHAT ARE YOU DOING?|
