@@ -21,6 +21,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!noway| 10 | Somebody says "No way" Samuel L. Jackson style |
 |!ohmy| 10 | George Takei saying "oh my" |
 |!schlimsicle| 10 | This is how you pronounce "Schlimsicle" btw|
+|!allow| 15 | Let everyone in chat know that we must allow our champion to finish his mission of getting a chicken dinner|
 |!banned| 15 | You were banned from this server|
 |!cashme| 15 | Cash me ousside, how bouh dah?|
 |!damnson| 15 | Damn son, where'd you find this?|
