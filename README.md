@@ -11,6 +11,7 @@ You can use the points to trigger special effects on Rove's stream.
 
 | Command | Cost (points) | Effect |
 |:-----:|:-----:|:-----:|
+|!no| 5 | Say no to somebody in chat using an orcish voice (example: !no @Rovefogle) |
 |!dontbullshitme| 10 | Arnold says "come on don't bullshit me" |
 |!doorbell| 10 | Sound of a doorbell |
 |!helmetnice| 10 | Arokh says nice! |
