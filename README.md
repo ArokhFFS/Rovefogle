@@ -26,6 +26,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!damnson| 15 | Damn son, where'd you find this?|
 |!deeptrouble| 15 | Arnold says "One of us is in.. deep trouble" |
 |!dies| 15 | Lucian knows that everybody dies, some just need a little help |
+|!fight| 15 | Tell Rovefogle to fight with honor, we will not be broken |
 |!finish| 15 | Mortal Kombat "FINISH HIM" |
 |!fluffy| 15 | He's so fluffy i'm gonna die, FLUFFY! |
 |!gotcha| 15 | Dave chapelle says "gotcha bitch!" |
