@@ -115,7 +115,8 @@ You can use the points to trigger special effects on Rove's stream.
 |!rockyou| 25 | WE WILL, WE WILL, ROCK YOU. |
 |!rumble| 25 | LET'S GET READY TO RUMBLEEEEE |
 |!sexysax| 25 | Sexy saxophone song plays |
-|!smooth| 25 | Michael Jackson tells us that someone has been hit by a smooth criminal. |
+|!smooth| 25 | Michael Jackson tells us that someone has been hit by a smooth criminal |
+|!stapler| 25 | Rob Schneider is.... a stapler |
 |!suckadick| 25 | Song about sucking dick  |
 |!suspense| 25 | TUN DUN DUUUUUUN |
 |!thebest| 25 | I wanna be the very best, like noone ever was. |
