@@ -133,6 +133,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!stopbullying| 35 | Defend Rovefogle from all the bullying he receives|
 |!what| 35 | WHAT ARE YOU DOING?|
 |!chickensong| 40 | weird chickensong plays|
+|!dontworry| 40 | Don't worry, be happy|
 |!חדש| 40 | Shira Choir|
 |!kazoo| 40 | kazoo taunting troll song plays |
 |!sherlock| 40 | Sherlock Theme plays |
