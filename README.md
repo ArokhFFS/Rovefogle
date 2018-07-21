@@ -209,6 +209,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!tellme| 50 | Grease - Tell me more, tell me more, does he look like a....? |
 |!vitas2| 50 | omg it's vitas singing chandrum bedrum (or something) |
 |!yousuck| 50 | Rove comes in and tells Rovefogle he sucks |
+|!epicsax| 90 | Epic sax guy plays his sax, epicly |
 |!theugly| 100 | Rove plays the ugly from the movie "the good the bad and the ugly" |
 |!rovemania| 100 (sub-only) | Rove rips up his shirt and out comes the chickendinner surprise! | 
 |!villain| 100 | Something special.. |
