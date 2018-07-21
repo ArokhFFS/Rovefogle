@@ -139,6 +139,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!tarkan| 40 | Seni gidi findik Kiran, kiss kiss!|
 |!shootingstar| 45| Shooting star meme intro |
 |!ameno1| 50 | ༼ つ ◕_◕ ༽つAMENO༼ つ ◕_◕ (short piece of the beginning) |
+|!hobbits| 50 | They're taking the hobbits to Isengard-gard-g-g-g-gard |
 |!imapotato| 50 | Song about how potato I am |
 |!appropriation (sub-only)| 100 | Rant about how stupid cultural appropriation is |
 |!sadsong| 120 | Sad and epic song plays for when something dramatic happened |
