@@ -61,6 +61,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!fly| 20 | "I believe i can fly" by R. Kelly |
 |!fuckoff| 20 | If you don't like people & cities then... |
 |!hello| 20 | Say hello to the camera. Hello motherf... |
+|!hitme| 20 | Hit me with your best shot, fire away!! |
 |!hot| 20 | Argh, hot hot hot, hot hot hot! |
 |!ifeelgood| 20 | Woah, I feel good nananana! |
 |!incestfreak| 20 | "what fucking bullshit, fuck you, you fucking incest freak!" -WhosHarley. |
