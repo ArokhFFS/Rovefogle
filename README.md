@@ -146,6 +146,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!hobbits| 50 | They're taking the hobbits to Isengard-gard-g-g-g-gard |
 |!imapotato| 50 | Song about how potato I am |
 |!kappa| 75 | Automated message from twitch to make sure the "Kappa" emote works |
+|!kappa2| 75 | (follow-up to kappa)The almighty emote of twitch is given by Kappa |
 |!appropriation (sub-only)| 100 | Rant about how stupid cultural appropriation is |
 |!sadsong| 120 | Sad and epic song plays for when something dramatic happened |
 |!troll (sub-only)| 120 | Original troll song, STOP TROLLING ME! |
