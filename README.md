@@ -49,6 +49,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!win| 15 | Rovefogle my son, go on and win this one for me ok? |
 |!wreckingball| 15 | I came in like a wreckingball! |
 |!3hours| 18 | You can stop looking at your watch buddy |
+|!mamafogle| 18 | Mamaaaaaaaaaaaaa! oooehhhh |
 |!bestfriends| 20 | What, did we just become best friends? YEP! |
 |!blame| 20 | You're blaming me for something you did to yourself! |
 |!breakfast| 20 | What is going on here? |
