@@ -37,6 +37,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!icant| 15 |Mr. Meeseeks saying "I can't take it anymore i just wanna die!" |
 |!iloveyou| 15 | To let Rovefogle know you love him |
 |!mywatch| 15 | NOT ON MY WATCH! |
+|!never| 15 | That'll never happen |
 |!omg| 15 | omg |
 |!openfire| 15 | Orc yelling "OPEN FIRE!" |
 |!pointing| 15 | For some reason people are just pointing fingers at me! |
