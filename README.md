@@ -39,6 +39,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!mywatch| 15 | NOT ON MY WATCH! |
 |!omg| 15 | omg |
 |!openfire| 15 | Orc yelling "OPEN FIRE!" |
+|!pointing| 15 | For some reason people are just pointing fingers at me! |
 |!regret| 15 | They will regret opposing Rovefogle |
 |!rooster| 15 | Sound of a rooster crowing |
 |!stay| 15 | Tell Rovefogle you think that this land is ideal for a stronhold |
