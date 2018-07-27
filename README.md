@@ -144,6 +144,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!dontworry| 40 | Don't worry, be happy|
 |!חדש| 40 | Shira Choir|
 |!kazoo| 40 | kazoo taunting troll song plays |
+|!pokerface| 40 | You can't read my pokerface, po-po-po-pokerface |
 |!sherlock| 40 | Sherlock Theme plays |
 |!tarkan| 40 | Seni gidi findik Kiran, kiss kiss!|
 |!shootingstar| 45| Shooting star meme intro |
