@@ -75,6 +75,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!loser| 20 | Tell Rovefogle what he really is |
 |!mariofail| 20 | Sound of mario dying |
 |!men| 20 | Wow, this really separates the men from the boys |
+|!monster| 20 | Monster energy, it's green so it's nature |
 |!moveit| 20 | Tell Rovefogle you like to "move it move it" |
 |!notadoctor| 20 | Will Ferrell says "You're not a doctor, you're a big...." |
 |!notfunny| 20 | Kanye west has something to say about this being either funny or true |
