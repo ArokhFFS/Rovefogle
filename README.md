@@ -41,6 +41,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!never| 15 | That'll never happen |
 |!omg| 15 | omg |
 |!openfire| 15 | Orc yelling "OPEN FIRE!" |
+|!pass| 15 | Gandalf "You shall not pass" |
 |!pointing| 15 | For some reason people are just pointing fingers at me! |
 |!regret| 15 | They will regret opposing Rovefogle |
 |!rooster| 15 | Sound of a rooster crowing |
