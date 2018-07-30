@@ -132,6 +132,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!trollsong| 25 | Plays a happy troll song |
 |!vegan| 25 | What are the odds Joe? |
 |!violin| 25 | Sad violin plays |
+|!curb| 30 | Curb your enthusiasm theme |
 |!freeman| 30 | What does Morgan Freeman do for fun??? |
 |!jaws| 30 | Jaws soundtrack plays |
 |!package| 30 | Rovefogle is hunting a package |
