@@ -130,6 +130,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!thebest| 25 | I wanna be the very best, like noone ever was. |
 |!tonofloot| 25 | You let Rovefogle know there will be a ton of loot |
 |!trollsong| 25 | Plays a happy troll song |
+|!unacceptable| 25 | unacceptable condition, unacceptableeee!! |
 |!vegan| 25 | What are the odds Joe? |
 |!violin| 25 | Sad violin plays |
 |!curb| 30 | Curb your enthusiasm theme |
