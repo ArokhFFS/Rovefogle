@@ -133,6 +133,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!unacceptable| 25 | unacceptable condition, unacceptableeee!! |
 |!vegan| 25 | What are the odds Joe? |
 |!violin| 25 | Sad violin plays |
+|!ateam| 30 | A-team theme song |
 |!curb| 30 | Curb your enthusiasm theme |
 |!freeman| 30 | What does Morgan Freeman do for fun??? |
 |!jaws| 30 | Jaws soundtrack plays |
