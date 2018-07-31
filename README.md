@@ -47,6 +47,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!rooster| 15 | Sound of a rooster crowing |
 |!stay| 15 | Tell Rovefogle you think that this land is ideal for a stronhold |
 |!stop| 15 | Spice girls telling Rove to "stop right now, thank you very much" |
+|!surprise| 15 | Surprise motherf*cker |
 |!triple| 15 | Oh baby a triple, oh yeah! |
 |!vitas| 15 | proper cringey sounds |
 |!whathappened| 15 | Hey, what happened? |
