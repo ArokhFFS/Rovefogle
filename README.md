@@ -116,6 +116,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!johncena| 25 | Plays John Cena entrance song |
 |!kickass| 25 | Papafogle announces that Rovefogle is about to kick some ass |
 |!letitgo| 25 | Let it go Rovefogle, let it go. |
+|!loituma| 25 | Yet another troll song to agitate Rovefogle |
 |!mlg| 25 | MLG horn if you want some attention |
 |!nachoman| 25 | For those who think being macho man is not enough |
 |!nolife| 25 | Does Rovefogle has a life? |
