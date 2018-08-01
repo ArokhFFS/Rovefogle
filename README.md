@@ -212,8 +212,9 @@ You can use the points to trigger special effects on Rove's stream.
 |!seinfeld| 35 | Credits to seinfeld starts playing |
 |!starwars| 35 | Credits to starwars start playing with a twist |
 |!yolo| 35 | Yolooooooooooooo |
-|!beauty| 40 | Rovefogle is beautiful, no matter what they say. |
+|!beauty| 40 | Rovefogle is beautiful, no matter what they say |
 |!weed| 40 | Snoop dogg dances to "smoke weed every day" |
+|!america| 45 | Epic speech by Hillary Clinton, Donald Trump is very impressed |
 |!arokh| 50 | Arokh in the house!!! |
 |!chicken| 50 | Rovefogle comes out and suggests we should get some chicken. |
 |!chickensuspense| 50 | Should we or should we not get chicken? |
