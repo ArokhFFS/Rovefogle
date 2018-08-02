@@ -14,6 +14,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!no| 5 | Say no to somebody in chat using an orcish voice (example: !no @Rovefogle) |
 |!dontbullshitme| 10 | Arnold says "come on don't bullshit me" |
 |!doorbell| 10 | Sound of a doorbell |
+|!fluffy2| 10 | SHUT UP FLUFFY! |
 |!helmetnice| 10 | Arokh says nice! |
 |!jedi| 10 | Who questions Rovefogle's speed and precision? He's a jedi.. |
 |!loot| 10 | Let Rovefogle know he forgot some loot (afterwards type in chat what it was) |
@@ -25,6 +26,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!allow| 15 | Let everyone in chat know that we must allow our champion to finish his mission of getting a chicken dinner|
 |!banned| 15 | You were banned from this server|
 |!cashme| 15 | Cash me ousside, how bouh dah?|
+|!damn| 15 | Eric Cartman saying god f*cking damnit|
 |!damnson| 15 | Damn son, where'd you find this?|
 |!deeptrouble| 15 | Arnold says "One of us is in.. deep trouble" |
 |!dies| 15 | Lucian knows that everybody dies, some just need a little help |
@@ -45,6 +47,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!pointing| 15 | For some reason people are just pointing fingers at me! |
 |!regret| 15 | They will regret opposing Rovefogle |
 |!rooster| 15 | Sound of a rooster crowing |
+|!shutup| 15 | Everyone just shut the f*ck up! |
 |!stay| 15 | Tell Rovefogle you think that this land is ideal for a stronhold |
 |!stop| 15 | Spice girls telling Rove to "stop right now, thank you very much" |
 |!surprise| 15 | Surprise motherf*cker |
