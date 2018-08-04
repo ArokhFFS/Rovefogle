@@ -46,6 +46,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!pass| 15 | Gandalf "You shall not pass" |
 |!pointing| 15 | For some reason people are just pointing fingers at me! |
 |!regret| 15 | They will regret opposing Rovefogle |
+|!rigged| 15 | A lot of people think the system is rigged, according to Mike Rowe's awesome voice |
 |!rooster| 15 | Sound of a rooster crowing |
 |!shutup| 15 | Everyone just shut the f*ck up! |
 |!stay| 15 | Tell Rovefogle you think that this land is ideal for a stronhold |
