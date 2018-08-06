@@ -48,6 +48,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!regret| 15 | They will regret opposing Rovefogle |
 |!rigged| 15 | A lot of people think the system is rigged, according to Mike Rowe's awesome voice |
 |!rooster| 15 | Sound of a rooster crowing |
+|!salt| 15 | Salt is a way of life here |
 |!shutup| 15 | Everyone just shut the f*ck up! |
 |!stay| 15 | Tell Rovefogle you think that this land is ideal for a stronhold |
 |!stop| 15 | Spice girls telling Rove to "stop right now, thank you very much" |
