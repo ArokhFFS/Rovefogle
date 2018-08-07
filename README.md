@@ -41,6 +41,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!hurry| 15 | Tell Rovefogle to hurry up, somebody/something might be coming |
 |!icant| 15 |Mr. Meeseeks saying "I can't take it anymore i just wanna die!" |
 |!iloveyou| 15 | To let Rovefogle know you love him |
+|!money| 15 | You should be making some money |
 |!mywatch| 15 | NOT ON MY WATCH! |
 |!never| 15 | That'll never happen |
 |!omg| 15 | omg |
