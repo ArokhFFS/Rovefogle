@@ -31,6 +31,8 @@ You can use the points to trigger special effects on Rove's stream.
 |!deeptrouble| 15 | Arnold says "One of us is in.. deep trouble" |
 |!dies| 15 | Lucian knows that everybody dies, some just need a little help |
 |!discipline| 15 | Does Rovefogle lack discipline? |
+|!english| 15 | Politely ask if someone speaks English |
+|!english2| 15 | impolitely ask if someone speaks English |
 |!fight| 15 | Tell Rovefogle to fight with honor, we will not be broken |
 |!finish| 15 | Mortal Kombat "FINISH HIM" |
 |!fluffy| 15 | He's so fluffy i'm gonna die, FLUFFY! |
