@@ -61,6 +61,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!triple| 15 | Oh baby a triple, oh yeah! |
 |!vitas| 15 | proper cringey sounds |
 |!whathappened| 15 | Hey, what happened? |
+|!whambam| 15 | wham, bam, thank you ma'am |
 |!win| 15 | Rovefogle my son, go on and win this one for me ok? |
 |!wreckingball| 15 | I came in like a wreckingball! |
 |!3hours| 18 | You can stop looking at your watch buddy |
