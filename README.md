@@ -64,6 +64,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!whambam| 15 | wham, bam, thank you ma'am |
 |!win| 15 | Rovefogle my son, go on and win this one for me ok? |
 |!wreckingball| 15 | I came in like a wreckingball! |
+|!wtf2| 15 | wtf are you doing? |
 |!3hours| 18 | You can stop looking at your watch buddy |
 |!mamafogle| 18 | Mamaaaaaaaaaaaaa! oooehhhh |
 |!bestfriends| 20 | What, did we just become best friends? YEP! |
@@ -103,6 +104,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!rovechicken| 20 | Use when you think Rovefogle is being a chicken |
 |!sadtrombone| 20 | Sad trombone plays a failing sound |
 |!science| 20 | Magical quote about science (take it lightly, it's a joke) |
+|!serious| 20 | Are you f***ing serious right now? |
 |!sixhourslater| 20 | Voice says "six and a half hours later" |
 |!slowclap| 20 | A group up people slow clapping, they are unimpressed |
 |!sofunny| 20 | "haha that's so funny the last time i heard that i......." |
