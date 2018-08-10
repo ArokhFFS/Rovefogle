@@ -11,176 +11,176 @@ You can use the points to trigger special effects on Rove's stream.
 
 | Command | Cost (points) | Effect |
 |:-----:|:-----:|:-----:|
-|!no| 5 | Say no to somebody in chat using an orcish voice (example: !no @Rovefogle) |
-|!dontbullshitme| 10 | Arnold says "come on don't bullshit me" |
 |!doorbell| 10 | Sound of a doorbell |
-|!fluffy2| 10 | SHUT UP FLUFFY! |
-|!helmetnice| 10 | Arokh says nice! |
-|!jedi| 10 | Who questions Rovefogle's speed and precision? He's a jedi.. |
-|!loot| 10 | Let Rovefogle know he forgot some loot (afterwards type in chat what it was) |
-|!nice| 10 | "Click Noice" |
-|!noway| 10 | Somebody says "No way" Samuel L. Jackson style |
-|!ohmy| 10 | George Takei saying "oh my" |
-|!schlimsicle| 10 | This is how you pronounce "Schlimsicle" btw|
-|!ledge| 12 | Neil degrasse Tyson talks about walking up to the ledge like "wcshhh" |
-|!allow| 15 | Let everyone in chat know that we must allow our champion to finish his mission of getting a chicken dinner|
-|!banned| 15 | You were banned from this server|
-|!cashme| 15 | Cash me ousside, how bouh dah?|
-|!damn| 15 | Eric Cartman saying god f*cking damnit|
-|!damnson| 15 | Damn son, where'd you find this?|
-|!deeptrouble| 15 | Arnold says "One of us is in.. deep trouble" |
-|!dies| 15 | Lucian knows that everybody dies, some just need a little help |
-|!discipline| 15 | Does Rovefogle lack discipline? |
-|!english| 15 | Politely ask if someone speaks English |
-|!english2| 15 | impolitely ask if someone speaks English |
-|!fight| 15 | Tell Rovefogle to fight with honor, we will not be broken |
-|!finish| 15 | Mortal Kombat "FINISH HIM" |
-|!fluffy| 15 | He's so fluffy i'm gonna die, FLUFFY! |
-|!funzone| 15 | How nice of bluehole to add a fun zone for us! |
-|!gotcha| 15 | Dave chapelle says "gotcha bitch!" |
-|!headshot2| 15 | HEADSHOT |
-|!heart| 15 | The Russians know that the heart is the strongest muscle |
-|!hurry| 15 | Tell Rovefogle to hurry up, somebody/something might be coming |
-|!icant| 15 |Mr. Meeseeks saying "I can't take it anymore i just wanna die!" |
-|!iloveyou| 15 | To let Rovefogle know you love him |
-|!money| 15 | You should be making some money |
-|!mywatch| 15 | NOT ON MY WATCH! |
-|!never| 15 | That'll never happen |
-|!omg| 15 | omg |
-|!openfire| 15 | Orc yelling "OPEN FIRE!" |
-|!pass| 15 | Gandalf "You shall not pass" |
-|!pointing| 15 | For some reason people are just pointing fingers at me! |
-|!regret| 15 | They will regret opposing Rovefogle |
-|!rigged| 15 | A lot of people think the system is rigged, according to Mike Rowe's awesome voice |
-|!rooster| 15 | Sound of a rooster crowing |
-|!salt| 15 | Salt is a way of life here |
-|!shutup| 15 | Everyone just shut the f*ck up! |
-|!stay| 15 | Tell Rovefogle you think that this land is ideal for a stronhold |
-|!stop| 15 | Spice girls telling Rove to "stop right now, thank you very much" |
-|!surprise| 15 | Surprise motherf*cker |
-|!triple| 15 | Oh baby a triple, oh yeah! |
-|!vitas| 15 | proper cringey sounds |
-|!whathappened| 15 | Hey, what happened? |
-|!whambam| 15 | wham, bam, thank you ma'am |
-|!win| 15 | Rovefogle my son, go on and win this one for me ok? |
-|!wreckingball| 15 | I came in like a wreckingball! |
-|!wtf2| 15 | wtf are you doing? |
-|!3hours| 18 | You can stop looking at your watch buddy |
-|!mamafogle| 18 | Mamaaaaaaaaaaaaa! oooehhhh |
-|!bestfriends| 20 | What, did we just become best friends? YEP! |
-|!blame| 20 | You're blaming me for something you did to yourself! |
-|!breakfast| 20 | What is going on here? |
-|!camper| 20 | "Murdered? who in the world would want to kill a camper?" |
-|!candy| 20 | "oeh piece of candy" |
-|!cantbelieve| 20 | I can't believe you've done this |
-|!chatcheering| 20 | the sound everyone in twitch chat makes when they cheer for Rove. |
-|!dead| 20 | Dude, bad news, you're dead. |
-|!fly| 20 | "I believe i can fly" by R. Kelly |
-|!fuckoff| 20 | If you don't like people & cities then... |
-|!hello| 20 | Say hello to the camera. Hello motherf... |
-|!hitme| 20 | Hit me with your best shot, fire away!! |
-|!hot| 20 | Argh, hot hot hot, hot hot hot! |
-|!ifeelgood| 20 | Woah, I feel good nananana! |
-|!imsorry| 20 | Oh i'm sorry i thought this was America |
-|!itsbullshit| 20 | Ooohhhh, so it's bullshit |
-|!incestfreak| 20 | "what fucking bullshit, fuck you, you fucking incest freak!" -WhosHarley. |
-|!justdoit| 20 | Shia labeouf says JUST DO IT! |
-|!keepthechange| 20 | Keep the change you filthy animal |
-|!ktfo| 20 | "You got ktfo, bitch" |
-|!loser| 20 | Tell Rovefogle what he really is |
-|!mariofail| 20 | Sound of mario dying |
-|!men| 20 | Wow, this really separates the men from the boys |
-|!monster| 20 | Monster energy, it's green so it's nature |
-|!moveit| 20 | Tell Rovefogle you like to "move it move it" |
-|!notadoctor| 20 | Will Ferrell says "You're not a doctor, you're a big...." |
-|!notfunny| 20 | Kanye west has something to say about this being either funny or true |
-|!noone| 20 | No one has ever done that. |
-|!ontheroad| 20 | On the road again song by Willie Nelson. |
-|!potter| 20 | Harry potter opening theme. |
-|!questions| 20 | Arnold says "i want to ask you some questions" |
-|!radical| 20 | Joe Rogan explaining how radical we are. |
-|!redbull| 20 | What the hell is redbull? It's an energy drink! |
-|!rekt| 20 | Rick says "riggety riggety rekt son!" |
-|!rovechicken| 20 | Use when you think Rovefogle is being a chicken |
-|!sadtrombone| 20 | Sad trombone plays a failing sound |
-|!science| 20 | Magical quote about science (take it lightly, it's a joke) |
-|!serious| 20 | Are you f***ing serious right now? |
-|!sixhourslater| 20 | Voice says "six and a half hours later" |
-|!slowclap| 20 | A group up people slow clapping, they are unimpressed |
-|!sofunny| 20 | "haha that's so funny the last time i heard that i......." |
-|!speech| 20 | Cartman asks "Is he seriously giving a speech right now?" |
-|!stevecarell| 20 | Steve Carell makes random noises. (Bruce Almighty) |
-|!uglymf| 20 | Arnold lets Rove know he's one ugly MF |
-|!whatswrong| 20 | Hey, what's wrong with you? |
-|!whocares| 20 | Peter says "OMG who cares?" |
-|!why| 20 | Patrick asks "WHY DOES THIS KEEP HAPPENING TO ME? |
-|!wtf| 20 | WTF WAS THAT SH*T? |
-|!youridea| 20 | Morty says "you need to chill out, this whole thing was your idea in the first place" |
-|!applause| 25 | Audience applauses |
-|!bombastic| 25 | Song Mr. Bombastic plays |
-|!brick| 25 | He would throw a brick through the window & arrested. |
-|!chargetrumpet| 25 | Trumpet plays charging tune|
-|!cry| 25 (sub-only) | Sound of a baby crying |
-|!dangerous| 25 | Papafogle warns Rovefogle to get out of there! |
-|!deaddream| 25 | Donald says "The American dream.. is dead". |
-|!fantastic| 25 | Nanananana fantastic baby! |
-|!hallelujah| 25 | Hallelujah song plays |
-|!hefuckedup| 25 | It was at this moment he knew, he fucked up |
-|!hellodarkness| 25 | Simon & garfunkel play hello darkness |
-|!impact| 25 | Kanye explaining how impactful Rovefogle is |
-|!johncena| 25 | Plays John Cena entrance song |
-|!kickass| 25 | Papafogle announces that Rovefogle is about to kick some ass |
-|!letitgo| 25 | Let it go Rovefogle, let it go. |
-|!loituma| 25 | Yet another troll song to agitate Rovefogle |
-|!mlg| 25 | MLG horn if you want some attention |
-|!nachoman| 25 | For those who think being macho man is not enough |
-|!nolife| 25 | Does Rovefogle has a life? |
-|!notyourbusiness| 25 | "I hardly think that's any of your business" |
-|!patrick| 25 | NO THIS IS PATRICK! |
-|!rockyou| 25 | WE WILL, WE WILL, ROCK YOU. |
-|!rumble| 25 | LET'S GET READY TO RUMBLEEEEE |
-|!sexysax| 25 | Sexy saxophone song plays |
-|!smooth| 25 | Michael Jackson tells us that someone has been hit by a smooth criminal |
-|!stapler| 25 | Rob Schneider is.... a stapler |
-|!suckadick| 25 | Song about sucking dick  |
-|!suspense| 25 | TUN DUN DUUUUUUN |
-|!thebest| 25 | I wanna be the very best, like noone ever was. |
-|!tonofloot| 25 | You let Rovefogle know there will be a ton of loot |
-|!trollsong| 25 | Plays a happy troll song |
-|!unacceptable| 25 | unacceptable condition, unacceptableeee!! |
-|!vegan| 25 | What are the odds Joe? |
-|!violin| 25 | Sad violin plays |
-|!ateam| 30 | A-team theme song |
-|!curb| 30 | Curb your enthusiasm theme |
-|!freeman| 30 | What does Morgan Freeman do for fun??? |
-|!jaws| 30 | Jaws soundtrack plays |
-|!package| 30 | Rovefogle is hunting a package |
-|!rickroll| 30 | Rickroll Rovefogle and chat with "never gonna give you up" by Rick Astley |
-|!shame| 30 | Game of Thrones Shame bell + voice |
-|!yallready| 30 | Ya'll ready for this? tuntun tundundundun |
-|!dust| 35 | Another one bites the dust |
-|!peacetune| 35 | A pieceful tune plays|
-|!pirate| 35 | You are a pirate song plays|
-|!stopbullying| 35 | Defend Rovefogle from all the bullying he receives|
-|!what| 35 | WHAT ARE YOU DOING?|
-|!chickensong| 40 | weird chickensong plays|
-|!dontworry| 40 | Don't worry, be happy|
-|!חדש| 40 | Shira Choir|
-|!kazoo| 40 | kazoo taunting troll song plays |
-|!pokerface| 40 | You can't read my pokerface, po-po-po-pokerface |
-|!sherlock| 40 | Sherlock Theme plays |
-|!tarkan| 40 | Seni gidi findik Kiran, kiss kiss!|
-|!shootingstar| 45| Shooting star meme intro |
-|!ameno1| 50 | ༼ つ ◕_◕ ༽つAMENO༼ つ ◕_◕ (short piece of the beginning) |
-|!hobbits| 50 | They're taking the hobbits to Isengard-gard-g-g-g-gard |
-|!imapotato| 50 | Song about how potato I am |
-|!kappa| 75 | Automated message from twitch to make sure the "Kappa" emote works |
-|!kappa2| 75 | (follow-up to kappa)The almighty emote of twitch is given by Kappa |
-|!appropriation (sub-only)| 100 | Rant about how stupid cultural appropriation is |
-|!sadsong| 120 | Sad and epic song plays for when something dramatic happened |
-|!troll (sub-only)| 120 | Original troll song, STOP TROLLING ME! |
-|!ameno2| 140 | ༼ つ ◕_◕ ༽つAMENO༼ つ ◕_◕ (longer piece of the middle bit) |
-|!epicspeech| 250 | Rovefogle bigs up your twitch name in an epic speech |
+|!no| 25 | Say no to somebody in chat using an orcish voice (example: !no @Rovefogle) |
+|!dontbullshitme| 50 | Arnold says "come on don't bullshit me" |
+|!fluffy2| 50 | SHUT UP FLUFFY! |
+|!helmetnice| 50 | Arokh says nice! |
+|!jedi| 50 | Who questions Rovefogle's speed and precision? He's a jedi.. |
+|!loot| 50 | Let Rovefogle know he forgot some loot (afterwards type in chat what it was) |
+|!nice| 50 | "Click Noice" |
+|!noway| 50 | Somebody says "No way" Samuel L. Jackson style |
+|!ohmy| 50 | George Takei saying "oh my" |
+|!schlimsicle| 50 | This is how you pronounce "Schlimsicle" btw|
+|!ledge| 60 | Neil degrasse Tyson talks about walking up to the ledge like "wcshhh" |
+|!allow| 75 | Let everyone in chat know that we must allow our champion to finish his mission of getting a chicken dinner|
+|!banned| 75 | You were banned from this server|
+|!cashme| 75 | Cash me ousside, how bouh dah?|
+|!damn| 75 | Eric Cartman saying god f*cking damnit|
+|!damnson| 75 | Damn son, where'd you find this?|
+|!deeptrouble| 75 | Arnold says "One of us is in.. deep trouble" |
+|!dies| 75 | Lucian knows that everybody dies, some just need a little help |
+|!discipline| 75 | Does Rovefogle lack discipline? |
+|!english| 75 | Politely ask if someone speaks English |
+|!english2| 75 | impolitely ask if someone speaks English |
+|!fight| 75 | Tell Rovefogle to fight with honor, we will not be broken |
+|!finish| 75 | Mortal Kombat "FINISH HIM" |
+|!fluffy| 75 | He's so fluffy i'm gonna die, FLUFFY! |
+|!funzone| 75 | How nice of bluehole to add a fun zone for us! |
+|!gotcha| 75 | Dave chapelle says "gotcha bitch!" |
+|!headshot2| 75 | HEADSHOT |
+|!heart| 75 | The Russians know that the heart is the strongest muscle |
+|!hurry| 75 | Tell Rovefogle to hurry up, somebody/something might be coming |
+|!icant| 75 |Mr. Meeseeks saying "I can't take it anymore i just wanna die!" |
+|!iloveyou| 75 | To let Rovefogle know you love him |
+|!money| 75 | You should be making some money |
+|!mywatch| 75 | NOT ON MY WATCH! |
+|!never| 75 | That'll never happen |
+|!omg| 75 | omg |
+|!openfire| 75 | Orc yelling "OPEN FIRE!" |
+|!pass| 75 | Gandalf "You shall not pass" |
+|!pointing| 75 | For some reason people are just pointing fingers at me! |
+|!regret| 75 | They will regret opposing Rovefogle |
+|!rigged| 75 | A lot of people think the system is rigged, according to Mike Rowe's awesome voice |
+|!rooster| 75 | Sound of a rooster crowing |
+|!salt| 75 | Salt is a way of life here |
+|!shutup| 75 | Everyone just shut the f*ck up! |
+|!stay| 75 | Tell Rovefogle you think that this land is ideal for a stronhold |
+|!stop| 75 | Spice girls telling Rove to "stop right now, thank you very much" |
+|!surprise| 75 | Surprise motherf*cker |
+|!triple| 75 | Oh baby a triple, oh yeah! |
+|!vitas| 75 | proper cringey sounds |
+|!whathappened| 75 | Hey, what happened? |
+|!whambam| 75 | wham, bam, thank you ma'am |
+|!win| 75 | Rovefogle my son, go on and win this one for me ok? |
+|!wreckingball| 75 | I came in like a wreckingball! |
+|!wtf2| 75 | wtf are you doing? |
+|!3hours| 90 | You can stop looking at your watch buddy |
+|!mamafogle| 90 | Mamaaaaaaaaaaaaa! oooehhhh |
+|!bestfriends| 100 | What, did we just become best friends? YEP! |
+|!blame| 100 | You're blaming me for something you did to yourself! |
+|!breakfast| 100 | What is going on here? |
+|!camper| 100 | "Murdered? who in the world would want to kill a camper?" |
+|!candy| 100 | "oeh piece of candy" |
+|!cantbelieve| 100 | I can't believe you've done this |
+|!chatcheering| 100 | the sound everyone in twitch chat makes when they cheer for Rove. |
+|!dead| 100 | Dude, bad news, you're dead. |
+|!fly| 100 | "I believe i can fly" by R. Kelly |
+|!fuckoff| 100 | If you don't like people & cities then... |
+|!hello| 100 | Say hello to the camera. Hello motherf... |
+|!hitme| 100 | Hit me with your best shot, fire away!! |
+|!hot| 100 | Argh, hot hot hot, hot hot hot! |
+|!ifeelgood| 100 | Woah, I feel good nananana! |
+|!imsorry| 100 | Oh i'm sorry i thought this was America |
+|!itsbullshit| 100 | Ooohhhh, so it's bullshit |
+|!incestfreak| 100 | "what fucking bullshit, fuck you, you fucking incest freak!" -WhosHarley. |
+|!justdoit| 100 | Shia labeouf says JUST DO IT! |
+|!keepthechange| 100 | Keep the change you filthy animal |
+|!ktfo| 100 | "You got ktfo, bitch" |
+|!loser| 100 | Tell Rovefogle what he really is |
+|!mariofail| 100 | Sound of mario dying |
+|!men| 100 | Wow, this really separates the men from the boys |
+|!monster| 100 | Monster energy, it's green so it's nature |
+|!moveit| 100 | Tell Rovefogle you like to "move it move it" |
+|!notadoctor| 100 | Will Ferrell says "You're not a doctor, you're a big...." |
+|!notfunny| 100 | Kanye west has something to say about this being either funny or true |
+|!noone| 100 | No one has ever done that. |
+|!ontheroad| 100 | On the road again song by Willie Nelson. |
+|!potter| 100 | Harry potter opening theme. |
+|!questions| 100 | Arnold says "i want to ask you some questions" |
+|!radical| 100 | Joe Rogan explaining how radical we are. |
+|!redbull| 100 | What the hell is redbull? It's an energy drink! |
+|!rekt| 100 | Rick says "riggety riggety rekt son!" |
+|!rovechicken| 100 | Use when you think Rovefogle is being a chicken |
+|!sadtrombone| 100 | Sad trombone plays a failing sound |
+|!science| 100 | Magical quote about science (take it lightly, it's a joke) |
+|!serious| 100 | Are you f***ing serious right now? |
+|!sixhourslater| 100 | Voice says "six and a half hours later" |
+|!slowclap| 100 | A group up people slow clapping, they are unimpressed |
+|!sofunny| 100 | "haha that's so funny the last time i heard that i......." |
+|!speech| 100 | Cartman asks "Is he seriously giving a speech right now?" |
+|!stevecarell| 100 | Steve Carell makes random noises. (Bruce Almighty) |
+|!uglymf| 100 | Arnold lets Rove know he's one ugly MF |
+|!whatswrong| 100 | Hey, what's wrong with you? |
+|!whocares| 100 | Peter says "OMG who cares?" |
+|!why| 100 | Patrick asks "WHY DOES THIS KEEP HAPPENING TO ME? |
+|!wtf| 100 | WTF WAS THAT SH*T? |
+|!youridea| 100 | Morty says "you need to chill out, this whole thing was your idea in the first place" |
+|!applause| 125 | Audience applauses |
+|!bombastic| 125 | Song Mr. Bombastic plays |
+|!brick| 125 | He would throw a brick through the window & arrested. |
+|!chargetrumpet| 125 | Trumpet plays charging tune|
+|!cry| 125 (sub-only) | Sound of a baby crying |
+|!dangerous| 125 | Papafogle warns Rovefogle to get out of there! |
+|!deaddream| 125 | Donald says "The American dream.. is dead". |
+|!fantastic| 125 | Nanananana fantastic baby! |
+|!hallelujah| 125 | Hallelujah song plays |
+|!hefuckedup| 125 | It was at this moment he knew, he fucked up |
+|!hellodarkness| 125 | Simon & garfunkel play hello darkness |
+|!impact| 125 | Kanye explaining how impactful Rovefogle is |
+|!johncena| 125 | Plays John Cena entrance song |
+|!kickass| 125 | Papafogle announces that Rovefogle is about to kick some ass |
+|!letitgo| 125 | Let it go Rovefogle, let it go. |
+|!loituma| 125 | Yet another troll song to agitate Rovefogle |
+|!mlg| 125 | MLG horn if you want some attention |
+|!nachoman| 125 | For those who think being macho man is not enough |
+|!nolife| 125 | Does Rovefogle has a life? |
+|!notyourbusiness| 125 | "I hardly think that's any of your business" |
+|!patrick| 125 | NO THIS IS PATRICK! |
+|!rockyou| 125 | WE WILL, WE WILL, ROCK YOU. |
+|!rumble| 125 | LET'S GET READY TO RUMBLEEEEE |
+|!sexysax| 125 | Sexy saxophone song plays |
+|!smooth| 125 | Michael Jackson tells us that someone has been hit by a smooth criminal |
+|!stapler| 125 | Rob Schneider is.... a stapler |
+|!suckadick| 125 | Song about sucking dick  |
+|!suspense| 125 | TUN DUN DUUUUUUN |
+|!thebest| 125 | I wanna be the very best, like noone ever was. |
+|!tonofloot| 125 | You let Rovefogle know there will be a ton of loot |
+|!trollsong| 125 | Plays a happy troll song |
+|!unacceptable| 125 | unacceptable condition, unacceptableeee!! |
+|!vegan| 125 | What are the odds Joe? |
+|!violin| 125 | Sad violin plays |
+|!ateam| 150 | A-team theme song |
+|!curb| 150 | Curb your enthusiasm theme |
+|!freeman| 150 | What does Morgan Freeman do for fun??? |
+|!jaws| 150 | Jaws soundtrack plays |
+|!package| 150 | Rovefogle is hunting a package |
+|!rickroll| 150 | Rickroll Rovefogle and chat with "never gonna give you up" by Rick Astley |
+|!shame| 150 | Game of Thrones Shame bell + voice |
+|!yallready| 150 | Ya'll ready for this? tuntun tundundundun |
+|!dust| 175 | Another one bites the dust |
+|!peacetune| 175 | A pieceful tune plays|
+|!pirate| 175 | You are a pirate song plays|
+|!stopbullying| 175 | Defend Rovefogle from all the bullying he receives|
+|!what| 175 | WHAT ARE YOU DOING?|
+|!chickensong| 200 | weird chickensong plays|
+|!dontworry| 200 | Don't worry, be happy|
+|!חדש| 200 | Shira Choir|
+|!kazoo| 200 | kazoo taunting troll song plays |
+|!pokerface| 200 | You can't read my pokerface, po-po-po-pokerface |
+|!sherlock| 200 | Sherlock Theme plays |
+|!tarkan| 200 | Seni gidi findik Kiran, kiss kiss!|
+|!shootingstar| 225| Shooting star meme intro |
+|!ameno1| 250 | ༼ つ ◕_◕ ༽つAMENO༼ つ ◕_◕ (short piece of the beginning) |
+|!hobbits| 250 | They're taking the hobbits to Isengard-gard-g-g-g-gard |
+|!imapotato| 250 | Song about how potato I am |
+|!kappa| 375 | Automated message from twitch to make sure the "Kappa" emote works |
+|!kappa2| 375 | (follow-up to kappa)The almighty emote of twitch is given by Kappa |
+|!appropriation (sub-only)| 500 | Rant about how stupid cultural appropriation is |
+|!sadsong| 600 | Sad and epic song plays for when something dramatic happened |
+|!troll (sub-only)| 600 | Original troll song, STOP TROLLING ME! |
+|!ameno2| 700 | ༼ つ ◕_◕ ༽つAMENO༼ つ ◕_◕ (longer piece of the middle bit) |
+|!epicspeech| 1250 | Rovefogle bigs up your twitch name in an epic speech |
 
 ## PUBG Sound effects:
 
@@ -218,7 +218,7 @@ You can use the points to trigger special effects on Rove's stream.
 
 | Command | Cost (points) | Effect |
 |:-----:|:-----:|:-----:|
-|!cya| 15 | Let Rovefogle know through Jean claude van Damme that you are heading out. Bye! |
+|!cya| 10 | Let Rovefogle know through Jean claude van Damme that you are heading out. Bye! |
 |!fun| 100| The fun has been doubled! |
 |!dayum| 150 | Rove comes in and says DAYUM |
 |!whatarmy| 150 | Jean claude van Damme asks "you, and what army?" |
