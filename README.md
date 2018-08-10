@@ -69,6 +69,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!mamafogle| 90 | Mamaaaaaaaaaaaaa! oooehhhh |
 |!bestfriends| 100 | What, did we just become best friends? YEP! |
 |!blame| 100 | You're blaming me for something you did to yourself! |
+|!braces| 100 | Aren't you a little old to be wearing braces? |
 |!breakfast| 100 | What is going on here? |
 |!camper| 100 | "Murdered? who in the world would want to kill a camper?" |
 |!candy| 100 | "oeh piece of candy" |
