@@ -157,6 +157,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!package| 30 | Rovefogle is hunting a package |
 |!rickroll| 30 | Rickroll Rovefogle and chat with "never gonna give you up" by Rick Astley |
 |!shame| 30 | Game of Thrones Shame bell + voice |
+|!yallready| 30 | Ya'll ready for this? tuntun tundundundun |
 |!dust| 35 | Another one bites the dust |
 |!peacetune| 35 | A pieceful tune plays|
 |!pirate| 35 | You are a pirate song plays|
