@@ -186,32 +186,32 @@ You can use the points to trigger special effects on Rove's stream.
 
 | Command | Cost (points) | Effect |
 |:-----:|:-----:|:-----:|
-|!aughits| 25 | The sound of a suppressed AUG hitting Rovefogle |
-|!augshots| 25 | The sound of a suppressed AUG nearly hitting Rovefogle |
-|!augspray| 25 | The sound of an AUG spraying next to Rovefogle |
-|!augspraysilent| 25 | The sound of a suppressed AUG spraying next to Rovefogle |
-|!awmhit| 25 | The sound of an AWM hitting Rovefogle |
-|!awmshot| 25 | The sound of an AWM nearly hitting Rovefogle |
-|!beastcarleft| 25 | The sound of a Mirado approaching from the left side |
-|!beastcarright| 25 | The sound of a Mirado approading from the right side |
-|!buggy| 25 | Realistic sound of a buggy appoaching a building |
-|!flashbang| 25 | The sound of a flashbang landing at Rovefogle's feet |
-|!grenaderight| 25 | Realistic grenade landing at Rove's feet coming in from the right |
-|!hippiebus| 25 | The sound of an approaching hippiebus |
-|!knock| 25 | Crazy realistic knocking sound to scare Rove |
-|!s12k| 25 | The sound of s12k shots rapidly fired at Rovefogle |
-|!sawed| 25 | The sound of a sawed off shotgun fired at Rovefogle |
-|!pumpshot1| 25 | Rovefogle getting hit by a pump shotgun |
-|!pumpshot2| 25 | Rovefogle getting hit with more pump shotgun shells |
-|!reload| 25 | Realistic sound is heard by Rove of a guy reloading nearby |
-|!silencedshots| 25 | Realistic shots wizzing by Rove's head |
-|!slrshot| 25 | Realistic shot of a silenced SLR gun wizzing by Rove's head |
-|!stairsteps| 25 | Someone walking above Rovefogle on stairs and JUMPS! |
-|!stepsdown| 25 | Realistic steps heard by Rove downstairs in a building |
-|!stepsup| 25 | Realistic steps heard by Rove upstairs in a building |
-|!treeshots| 25 | Realistic sounds of someone shooting and hitting a tree nearby |
-|!uazleft| 25 | UAZ approaching from the left side |
-|!vault| 25 | Someone vaults out a window nearby |
+|!aughits| 125 | The sound of a suppressed AUG hitting Rovefogle |
+|!augshots| 125 | The sound of a suppressed AUG nearly hitting Rovefogle |
+|!augspray| 125 | The sound of an AUG spraying next to Rovefogle |
+|!augspraysilent| 125 | The sound of a suppressed AUG spraying next to Rovefogle |
+|!awmhit| 125 | The sound of an AWM hitting Rovefogle |
+|!awmshot| 125 | The sound of an AWM nearly hitting Rovefogle |
+|!beastcarleft| 125 | The sound of a Mirado approaching from the left side |
+|!beastcarright| 125 | The sound of a Mirado approading from the right side |
+|!buggy| 125 | Realistic sound of a buggy appoaching a building |
+|!flashbang| 125 | The sound of a flashbang landing at Rovefogle's feet |
+|!grenaderight| 125 | Realistic grenade landing at Rove's feet coming in from the right |
+|!hippiebus| 125 | The sound of an approaching hippiebus |
+|!knock| 125 | Crazy realistic knocking sound to scare Rove |
+|!s12k| 125 | The sound of s12k shots rapidly fired at Rovefogle |
+|!sawed| 125 | The sound of a sawed off shotgun fired at Rovefogle |
+|!pumpshot1| 125 | Rovefogle getting hit by a pump shotgun |
+|!pumpshot2| 125 | Rovefogle getting hit with more pump shotgun shells |
+|!reload| 125 | Realistic sound is heard by Rove of a guy reloading nearby |
+|!silencedshots| 125 | Realistic shots wizzing by Rove's head |
+|!slrshot| 125 | Realistic shot of a silenced SLR gun wizzing by Rove's head |
+|!stairsteps| 125 | Someone walking above Rovefogle on stairs and JUMPS! |
+|!stepsdown| 125 | Realistic steps heard by Rove downstairs in a building |
+|!stepsup| 125 | Realistic steps heard by Rove upstairs in a building |
+|!treeshots| 125 | Realistic sounds of someone shooting and hitting a tree nearby |
+|!uazleft| 125 | UAZ approaching from the left side |
+|!vault| 125 | Someone vaults out a window nearby |
 
 
 ## Video effects:
