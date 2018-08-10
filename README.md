@@ -159,6 +159,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!rickroll| 150 | Rickroll Rovefogle and chat with "never gonna give you up" by Rick Astley |
 |!shame| 150 | Game of Thrones Shame bell + voice |
 |!yallready| 150 | Ya'll ready for this? tuntun tundundundun |
+|!מאמין| 150 | Hebrew song saying "i believe" use this if you believe in Rove! |
 |!dust| 175 | Another one bites the dust |
 |!peacetune| 175 | A pieceful tune plays|
 |!pirate| 175 | You are a pirate song plays|
