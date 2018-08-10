@@ -219,42 +219,42 @@ You can use the points to trigger special effects on Rove's stream.
 | Command | Cost (points) | Effect |
 |:-----:|:-----:|:-----:|
 |!cya| 15 | Let Rovefogle know through Jean claude van Damme that you are heading out. Bye! |
-|!fun| 20| The fun has been doubled! |
-|!dayum| 30 | Rove comes in and says DAYUM |
-|!whatarmy| 30 | Jean claude van Damme asks "you, and what army?" |
-|!killme| 35 | kill me? you can try |
-|!rule1| 35 (sub-only) | Rove comes in and explains rule number one |
-|!rule2| 35 | Rove comes in and explains rule number two |
-|!seinfeld| 35 | Credits to seinfeld starts playing |
-|!starwars| 35 | Credits to starwars start playing with a twist |
-|!yolo| 35 | Yolooooooooooooo |
-|!beauty| 40 | Rovefogle is beautiful, no matter what they say |
-|!weed| 40 | Snoop dogg dances to "smoke weed every day" |
-|!america| 45 | Epic speech by Hillary Clinton, Donald Trump is very impressed |
-|!arokh| 50 | Arokh in the house!!! |
-|!chicken| 50 | Rovefogle comes out and suggests we should get some chicken. |
-|!chickensuspense| 50 | Should we or should we not get chicken? |
-|!cuffs| 50 | Rovefogle can break these cuffs |
-|!disappointed| 50 | Mamafogle is very disappointed with Rove |
-|!gabriella| 50 (sub-only) | Gabriella is here, let's party! |
-|!headshot| 50 | Rove comes in and says HEADSHOOOT |
-|!jimb0| 50 | it's pronounced.... |
-|!ninja| 50 | If light travels so fast... |
-|!nochicken| 50 | Mysterious lady comes in and is disappointed with yet again no chicken |
-|!onlygame| 50 | Rovefogle asks why Rovefogle has to be mad, it's only a game! |
-|!tellme| 50 | Grease - Tell me more, tell me more, does he look like a....? |
-|!vitas2| 50 | omg it's vitas singing chandrum bedrum (or something) |
-|!yousuck| 50 | Rove comes in and tells Rovefogle he sucks |
-|!epicsax| 90 | Epic sax guy plays his sax, epicly |
-|!theugly| 100 | Rove plays the ugly from the movie "the good the bad and the ugly" |
-|!rovemania| 100 (sub-only) | Rove rips up his shirt and out comes the chickendinner surprise! | 
-|!villain| 100 | Something special.. |
-|!badger| 125 (sub-only) | Honeybadger is here |
-|!blood| 250 | Rovefogle smells blood (now active with a more viewer friendly twist) |
-|!dance| 300 (sub-only) | Rove's dance and playback party |
-|!eddie| 300 (sub-only) | Who's that sexy sexy man? It's eddievasellini, eddievasellini baby |
-|!ahhhhh| 400 (sub-only) | Some screaming Cowboii |
-|!chickensong2| 500 (sub-only) | Chicken dinner celebration |
-|!girls| 1500 (sub-only) | "Rovy Lauple" performing her "girls just wanna have fun song"  |
-|!kiss| 2500 (sub-only) | Rovefogle falls asleep and has a nice dream |
+|!fun| 100| The fun has been doubled! |
+|!dayum| 150 | Rove comes in and says DAYUM |
+|!whatarmy| 150 | Jean claude van Damme asks "you, and what army?" |
+|!killme| 175 | kill me? you can try |
+|!rule1| 175 (sub-only) | Rove comes in and explains rule number one |
+|!rule2| 175 | Rove comes in and explains rule number two |
+|!seinfeld| 175 | Credits to seinfeld starts playing |
+|!starwars| 175 | Credits to starwars start playing with a twist |
+|!yolo| 175 | Yolooooooooooooo |
+|!beauty| 200 | Rovefogle is beautiful, no matter what they say |
+|!weed| 200 | Snoop dogg dances to "smoke weed every day" |
+|!america| 225 | Epic speech by Hillary Clinton, Donald Trump is very impressed |
+|!arokh| 250 | Arokh in the house!!! |
+|!chicken| 250 | Rovefogle comes out and suggests we should get some chicken. |
+|!chickensuspense| 250 | Should we or should we not get chicken? |
+|!cuffs| 250 | Rovefogle can break these cuffs |
+|!disappointed| 250 | Mamafogle is very disappointed with Rove |
+|!gabriella| 250 (sub-only) | Gabriella is here, let's party! |
+|!headshot| 250 | Rove comes in and says HEADSHOOOT |
+|!jimb0| 250 | it's pronounced.... |
+|!ninja| 250 | If light travels so fast... |
+|!nochicken| 250 | Mysterious lady comes in and is disappointed with yet again no chicken |
+|!onlygame| 250 | Rovefogle asks why Rovefogle has to be mad, it's only a game! |
+|!tellme| 250 | Grease - Tell me more, tell me more, does he look like a....? |
+|!vitas2| 250 | omg it's vitas singing chandrum bedrum (or something) |
+|!yousuck| 250 | Rove comes in and tells Rovefogle he sucks |
+|!epicsax| 450 | Epic sax guy plays his sax, epicly |
+|!theugly| 500 | Rove plays the ugly from the movie "the good the bad and the ugly" |
+|!rovemania| 500 (sub-only) | Rove rips up his shirt and out comes the chickendinner surprise! | 
+|!villain| 500 | Something special.. |
+|!badger| 625 (sub-only) | Honeybadger is here |
+|!blood| 1250 | Rovefogle smells blood (now active with a more viewer friendly twist) |
+|!dance| 1500 (sub-only) | Rove's dance and playback party |
+|!eddie| 1500 (sub-only) | Who's that sexy sexy man? It's eddievasellini, eddievasellini baby |
+|!ahhhhh| 2000 (sub-only) | Some screaming Cowboii |
+|!chickensong2| 2500 (sub-only) | Chicken dinner celebration |
+|!girls| 7500 (sub-only) | "Rovy Lauple" performing her "girls just wanna have fun song"  |
+|!kiss| 12500 (sub-only) | Rovefogle falls asleep and has a nice dream |
 |!new| (MOD-ONLY) | Channel introducing video for new users |
