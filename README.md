@@ -12,12 +12,12 @@ You can use the points to trigger special effects on Rove's stream.
 | Command | Cost (points) | Effect |
 |:-----:|:-----:|:-----:|
 |!doorbell| 10 | Sound of a doorbell |
+|!loot| 10 | Let Rovefogle know he forgot some loot (afterwards type in chat what it was) |
 |!no| 25 | Say no to somebody in chat using an orcish voice (example: !no @Rovefogle) |
 |!dontbullshitme| 50 | Arnold says "come on don't bullshit me" |
 |!fluffy2| 50 | SHUT UP FLUFFY! |
 |!helmetnice| 50 | Arokh says nice! |
 |!jedi| 50 | Who questions Rovefogle's speed and precision? He's a jedi.. |
-|!loot| 50 | Let Rovefogle know he forgot some loot (afterwards type in chat what it was) |
 |!nice| 50 | "Click Noice" |
 |!noway| 50 | Somebody says "No way" Samuel L. Jackson style |
 |!ohmy| 50 | George Takei saying "oh my" |
