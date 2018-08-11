@@ -84,6 +84,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!ifeelgood| 100 | Woah, I feel good nananana! |
 |!imsorry| 100 | Oh i'm sorry i thought this was America |
 |!itsbullshit| 100 | Ooohhhh, so it's bullshit |
+|!itstime| 100 | Bruce Buffer knows it's TIIIIMEEEEE !!! |
 |!incestfreak| 100 | "what fucking bullshit, fuck you, you fucking incest freak!" -WhosHarley. |
 |!justdoit| 100 | Shia labeouf says JUST DO IT! |
 |!keepthechange| 100 | Keep the change you filthy animal |
