@@ -118,6 +118,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!why| 100 | Patrick asks "WHY DOES THIS KEEP HAPPENING TO ME? |
 |!wtf| 100 | WTF WAS THAT SH*T? |
 |!youridea| 100 | Morty says "you need to chill out, this whole thing was your idea in the first place" |
+|!pbjelly| 120 | peanut butter jelly with a baseball bat |
 |!applause| 125 | Audience applauses |
 |!bombastic| 125 | Song Mr. Bombastic plays |
 |!brick| 125 | He would throw a brick through the window & arrested. |
