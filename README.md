@@ -259,9 +259,9 @@ You can use the points to trigger special effects on Rove's stream.
 |!eddie| 1500 (sub-only) | Who's that sexy sexy man? It's eddievasellini, eddievasellini baby |
 |!ahhhhh| 2000 (sub-only) | Some screaming Cowboii |
 |!chickensong2| 2500 (sub-only) | Chicken dinner celebration |
-|!poly| 3500 (sub-only) | Polymorph Rovefogle into a chicken! |
-|!poly2| 3500 (sub-only) | Polymorph Rovefogle into an enthusiastic  dancer |
-|!poly3| 3500 (sub-only) | Polymorph Rovefogle into a dancing goblin |
+|!poly| 3000 (sub-only) | Polymorph Rovefogle into a chicken! |
+|!poly2| 3000 (sub-only) | Polymorph Rovefogle into an enthusiastic  dancer |
+|!poly3| 3000 (sub-only) | Polymorph Rovefogle into a dancing goblin |
 |!girls| 7500 (sub-only) | "Rovy Lauple" performing her "girls just wanna have fun song"  |
 |!kiss| 12500 (sub-only) | Rovefogle falls asleep and has a nice dream |
 |!new| (MOD-ONLY) | Channel introducing video for new users |
