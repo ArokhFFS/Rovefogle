@@ -75,7 +75,8 @@ You can use the points to trigger special effects on Rove's stream.
 |!candy| 100 | "oeh piece of candy" |
 |!cantbelieve| 100 | I can't believe you've done this |
 |!chatcheering| 100 | the sound everyone in twitch chat makes when they cheer for Rove. |
-|!dead| 100 | Dude, bad news, you're dead. |
+|!dead| 100 | Dude, bad news, you're dead |
+|!filipino| 100 | Filipino, Filipino, Filipino HYPE!!! |
 |!fly| 100 | "I believe i can fly" by R. Kelly |
 |!fuckoff| 100 | If you don't like people & cities then... |
 |!hello| 100 | Say hello to the camera. Hello motherf... |
