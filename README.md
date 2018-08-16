@@ -97,9 +97,10 @@ You can use the points to trigger special effects on Rove's stream.
 |!moveit| 100 | Tell Rovefogle you like to "move it move it" |
 |!notadoctor| 100 | Will Ferrell says "You're not a doctor, you're a big...." |
 |!notfunny| 100 | Kanye west has something to say about this being either funny or true |
-|!noone| 100 | No one has ever done that. |
-|!ontheroad| 100 | On the road again song by Willie Nelson. |
-|!potter| 100 | Harry potter opening theme. |
+|!noone| 100 | No one has ever done that |
+|!oceanman| 100 | Ocean man, take me to the land that you understand |
+|!ontheroad| 100 | On the road again song by Willie Nelson |
+|!potter| 100 | Harry potter opening theme |
 |!questions| 100 | Arnold says "i want to ask you some questions" |
 |!radical| 100 | Joe Rogan explaining how radical we are. |
 |!redbull| 100 | What the hell is redbull? It's an energy drink! |
