@@ -58,6 +58,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!shutup| 75 | Everyone just shut the f*ck up! |
 |!stay| 75 | Tell Rovefogle you think that this land is ideal for a stronhold |
 |!stop| 75 | Spice girls telling Rove to "stop right now, thank you very much" |
+|!stopsucking| 75 | Stop sucking |
 |!surprise| 75 | Surprise motherf*cker |
 |!triple| 75 | Oh baby a triple, oh yeah! |
 |!vitas| 75 | proper cringey sounds |
