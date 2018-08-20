@@ -45,6 +45,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!iloveyou| 75 | To let Rovefogle know you love him |
 |!money| 75 | You should be making some money |
 |!mywatch| 75 | NOT ON MY WATCH! |
+|!neck| 75 | 10.000 years will give you such a crick in the neck |
 |!never| 75 | That'll never happen |
 |!omg| 75 | omg |
 |!openfire| 75 | Orc yelling "OPEN FIRE!" |
