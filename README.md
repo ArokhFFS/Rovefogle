@@ -67,7 +67,8 @@ You can use the points to trigger special effects on Rove's stream.
 |!win| 75 | Rovefogle my son, go on and win this one for me ok? |
 |!wreckingball| 75 | I came in like a wreckingball! |
 |!wtf2| 75 | wtf are you doing? |
-|!monsterkill| 75 | M-M-M-M-Monster kill |
+|!firstblood| 80 | Firstblood! |
+|!monsterkill| 80 | M-M-M-M-Monster kill |
 |!3hours| 90 | You can stop looking at your watch buddy |
 |!mamafogle| 90 | Mamaaaaaaaaaaaaa! oooehhhh |
 |!bestfriends| 100 | What, did we just become best friends? YEP! |
