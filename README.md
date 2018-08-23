@@ -69,6 +69,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!wtf2| 75 | wtf are you doing? |
 |!firstblood| 80 | Firstblood! |
 |!monsterkill| 80 | M-M-M-M-Monster kill |
+|!really| 80 | Are you trying to piss me off or is that really how you say that? |
 |!3hours| 90 | You can stop looking at your watch buddy |
 |!mamafogle| 90 | Mamaaaaaaaaaaaaa! oooehhhh |
 |!balls| 100 | Chef's chocolate salty balls |
