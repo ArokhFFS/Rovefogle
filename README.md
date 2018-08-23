@@ -71,6 +71,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!monsterkill| 80 | M-M-M-M-Monster kill |
 |!3hours| 90 | You can stop looking at your watch buddy |
 |!mamafogle| 90 | Mamaaaaaaaaaaaaa! oooehhhh |
+|!balls| 100 | Chef's chocolate salty balls |
 |!bestfriends| 100 | What, did we just become best friends? YEP! |
 |!blame| 100 | You're blaming me for something you did to yourself! |
 |!braces| 100 | Aren't you a little old to be wearing braces? |
