@@ -41,6 +41,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!gotcha| 75 | Dave chapelle says "gotcha bitch!" |
 |!headshot2| 75 | HEADSHOT |
 |!heart| 75 | The Russians know that the heart is the strongest muscle |
+|!humiliation| 75 | Humiliation legendary quake announcer |
 |!hurry| 75 | Tell Rovefogle to hurry up, somebody/something might be coming |
 |!icant| 75 |Mr. Meeseeks saying "I can't take it anymore i just wanna die!" |
 |!iloveyou| 75 | To let Rovefogle know you love him |
