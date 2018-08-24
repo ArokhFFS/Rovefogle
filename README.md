@@ -24,6 +24,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!schlimsicle| 50 | This is how you pronounce "Schlimsicle" btw|
 |!ledge| 60 | Neil degrasse Tyson talks about walking up to the ledge like "wcshhh" |
 |!allow| 75 | Let everyone in chat know that we must allow our champion to finish his mission of getting a chicken dinner|
+|!apologies| 75 | Apologies your majesty|
 |!banned| 75 | You were banned from this server|
 |!cashme| 75 | Cash me ousside, how bouh dah?|
 |!damn| 75 | Eric Cartman saying god f*cking damnit|
