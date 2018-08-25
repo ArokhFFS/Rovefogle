@@ -180,6 +180,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!pirate| 175 | You are a pirate song plays|
 |!stopbullying| 175 | Defend Rovefogle from all the bullying he receives|
 |!what| 175 | WHAT ARE YOU DOING?|
+|!bongbang| 200 | 365DABAND coarse "bong bong bong bong bong bang bang" (VIETNAM SONG)|
 |!chickensong| 200 | weird chickensong plays|
 |!dontworry| 200 | Don't worry, be happy|
 |!חדש| 200 | Shira Choir|
