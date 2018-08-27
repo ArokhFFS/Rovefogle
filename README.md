@@ -131,6 +131,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!wtf| 100 | WTF WAS THAT SH*T? |
 |!yourewelcome| 100 | Hey it's okay you're welcome, i'm just an ordinary demi-guy |
 |!youridea| 100 | Morty says "you need to chill out, this whole thing was your idea in the first place" |
+|!beatit| 120 | Just beat it by Michael, Don't be a WHAT? |
 |!pbjelly| 120 | peanut butter jelly with a baseball bat |
 |!applause| 125 | Audience applauses |
 |!bombastic| 125 | Song Mr. Bombastic plays |
