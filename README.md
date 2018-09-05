@@ -38,6 +38,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!finish| 75 | Mortal Kombat "FINISH HIM" |
 |!fluffy| 75 | He's so fluffy i'm gonna die, FLUFFY! |
 |!funzone| 75 | How nice of bluehole to add a fun zone for us! |
+|!getout| 75 (sub-only) | Get out of there, it's gonna blow! |
 |!gotcha| 75 | Dave chapelle says "gotcha bitch!" |
 |!headshot2| 75 | HEADSHOT |
 |!heart| 75 | The Russians know that the heart is the strongest muscle |
