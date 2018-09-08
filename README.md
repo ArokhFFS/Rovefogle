@@ -283,5 +283,6 @@ You can use the points to trigger special effects on Rove's stream.
 |!poly2| 3000 (sub-only) | Polymorph Rovefogle into an enthusiastic  dancer |
 |!poly3| 3000 (sub-only) | Polymorph Rovefogle into a dancing goblin |
 |!girls| 7500 (sub-only) | "Rovy Lauple" performing her "girls just wanna have fun song"  |
+|!champions| 10000 (sub-only) | "We are the champions with confetti fireworks and a more! (use for celebratory moments)"  |
 |!kiss| 12500 (sub-only) | Rovefogle falls asleep and has a nice dream |
 |!new| (MOD-ONLY) | Channel introducing video for new users |
