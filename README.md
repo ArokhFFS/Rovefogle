@@ -56,6 +56,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!openfire| 75 | Orc yelling "OPEN FIRE!" |
 |!pass| 75 | Gandalf "You shall not pass" |
 |!pointing| 75 | For some reason people are just pointing fingers at me! |
+|!prefire| 75 (sub-only) | Don't make me prefire you, you're prefired |
 |!regret| 75 | They will regret opposing Rovefogle |
 |!rigged| 75 | A lot of people think the system is rigged, according to Mike Rowe's awesome voice |
 |!rooster| 75 | Sound of a rooster crowing |
