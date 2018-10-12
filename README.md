@@ -258,6 +258,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!beauty| 200 | Rovefogle is beautiful, no matter what they say |
 |!weed| 200 | Snoop dogg dances to "smoke weed every day" |
 |!america| 225 | Epic speech by Hillary Clinton, Donald Trump is very impressed |
+|!shoot| 225 | Shoot some bullets at Rovefogle |
 |!arokh| 250 | Arokh in the house!!! |
 |!chicken| 250 | Rovefogle comes out and suggests we should get some chicken. |
 |!chickensuspense| 250 | Should we or should we not get chicken? |
