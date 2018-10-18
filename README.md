@@ -249,6 +249,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!fun| 100| The fun has been doubled! |
 |!dayum| 150 | Rove comes in and says DAYUM |
 |!whatarmy| 150 | Jean claude van Damme asks "you, and what army?" |
+|!died| 175 | You died |
 |!killme| 175 | kill me? you can try |
 |!rule1| 175 (sub-only) | Rove comes in and explains rule number one |
 |!rule2| 175 | Rove comes in and explains rule number two |
