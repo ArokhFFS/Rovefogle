@@ -87,7 +87,7 @@ You can use the points to trigger special effects on Rove's stream.
 |:-----:|:-----:|:-----:|
 |!peekaboo| 75 | Bird comes out to say Peekaboo |
 
-## Hobbit cave effects:
+## Hobbit room effects:
 
 | Command | Cost (points) | Effect |
 |:-----:|:-----:|:-----:|
