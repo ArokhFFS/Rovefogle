@@ -79,7 +79,14 @@ You can use the points to trigger special effects on Rove's stream.
 
 | Command | Cost (points) | Effect |
 |:-----:|:-----:|:-----:|
+|!start| 125 | Rove knocks on the window asking to start the game |
+
+## Hobbitcabin effects:
+
+| Command | Cost (points) | Effect |
+|:-----:|:-----:|:-----:|
 |!orb| 100 | Orb starts glowing |
+|!start2| 125 | Rove knocks on the window asking to start the game |
 
 ## Studyroom effects:
 
