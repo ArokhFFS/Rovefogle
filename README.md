@@ -81,6 +81,12 @@ You can use the points to trigger special effects on Rove's stream.
 |:-----:|:-----:|:-----:|
 |!start| 125 | Rove knocks on the window asking to start the game |
 
+## Alps Cabin effects:
+
+| Command | Cost (points) | Effect |
+|:-----:|:-----:|:-----:|
+|!peekaboo| 75 | Bird comes out to say Peekaboo |
+
 ## Hobbit cabin effects:
 
 | Command | Cost (points) | Effect |
