@@ -100,7 +100,7 @@ You can use the points to trigger special effects on Rove's stream.
 
 | Command | Cost (points) | Effect |
 |:-----:|:-----:|:-----:|
-|!book| 125 | Open the book on the desk |
+|!book| 60 | Open the book on the desk |
 |!spider| 155 | Make a spider appear on the desk |
 |!mouse| 160 | Marvin the mouse comes out to sniff around |
 |!ghost| 300 (sub-only) | Secret room reveals a ghost |
