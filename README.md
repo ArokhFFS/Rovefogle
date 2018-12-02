@@ -91,7 +91,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!ghost| 300 (sub-only) | Secret room reveals a ghost |
 |!cubeyy| 1000 (sub-only) | Promote cubeyygaming |
 
-## Video effects:
+## In-game effects:
 
 | Command | Cost (points) | Effect |
 |:-----:|:-----:|:-----:|
