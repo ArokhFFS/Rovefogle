@@ -75,6 +75,12 @@ You can use the points to trigger special effects on Rove's stream.
 |!dog| 175 | Dog appears |
 |!revolver| 200 | Shoot a revolver from out the window and knock over some redbulls |
 
+## Hobbitcabin effects:
+
+| Command | Cost (points) | Effect |
+|:-----:|:-----:|:-----:|
+|!orb| 100 | Orb starts glowing |
+
 ## Studyroom effects:
 
 | Command | Cost (points) | Effect |
