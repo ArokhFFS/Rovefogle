@@ -93,6 +93,8 @@ You can use the points to trigger special effects on Rove's stream.
 |:-----:|:-----:|:-----:|
 |!orb| 100 | Orb starts glowing |
 |!start2| 125 | Rove knocks on the window asking to start the game |
+|!orb2| 300 (sub-only) | Orb gets magically activated |
+|!wand| 300 (sub-only) | Cast spells on the gameplay in the window |
 
 ## Study room effects:
 
