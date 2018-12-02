@@ -63,10 +63,10 @@ You can use the points to trigger special effects on Rove's stream.
 |:-----:|:-----:|:-----:|
 |!honeyfart| 150 | Honeythelewdbadger gets out of bed to fart on Rove |
 |!thunder| 225 | Uh oh, thunder outside |
-|!tv1| 275 | What's on TV? |
-|!tv2| 275 | What's on TV? |
-|!tv3| 275 | What's on TV? |
-|!dinner| 300 | Let mom tell us that we forgot dinner |
+|!tv1| 275 (sub-only) | What's on TV? |
+|!tv2| 275 (sub-only)| What's on TV? |
+|!tv3| 275 (sub-only)| What's on TV? |
+|!dinner| 300 (sub-only) | Let mom tell us that we forgot dinner |
 
 ## Saloon effects:
 
@@ -88,8 +88,8 @@ You can use the points to trigger special effects on Rove's stream.
 |!book| 125 | Open the book on the desk |
 |!spider| 155 | Make a spider appear on the desk |
 |!mouse| 160 | Marvin the mouse comes out to sniff around |
-|!ghost| 300 | Secret room reveals a ghost |
-|!cubeyy| 1000 | Promote cubeyygaming |
+|!ghost| 300 (sub-only) | Secret room reveals a ghost |
+|!cubeyy| 1000 (sub-only) | Promote cubeyygaming |
 
 ## Video effects:
 
@@ -99,5 +99,5 @@ You can use the points to trigger special effects on Rove's stream.
 |!chickensuspense| 250 | Should we or should we not get chicken? |
 |!onlygame| 250 | Rovefogle asks why Rovefogle has to be mad, it's only a game! |
 |!vitas2| 250 | omg it's vitas singing chandrum bedrum (or something) |
-|!blood| 1250 | Rovefogle smells blood (now active with a more viewer friendly twist) |
+|!blood| 1250 (sub-only) | Rovefogle smells blood (now active with a more viewer friendly twist) |
 |!eddie| 1500 (sub-only) | Who's that sexy sexy man? It's eddievasellini, eddievasellini baby |
