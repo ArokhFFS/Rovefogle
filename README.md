@@ -57,6 +57,17 @@ You can use the points to trigger special effects on Rove's stream.
 |!shootingstar| 225| Shooting star meme intro |
 |!sadsong| 600 | Sad and epic song plays for when something dramatic happened |
 
+## Honeysroom's effects:
+| Command | Cost (points) | Effect |
+|:-----:|:-----:|:-----:|
+|!honeyfart| 150 | Honeythelewdbadger gets out of bed to fart on Rove |
+|!thunder| 225 | Uh oh, thunder outside |
+|!tv1| 275 | What's on TV? |
+|!tv2| 275 | What's on TV? |
+|!tv3| 275 | What's on TV? |
+|!dinner| 300 | Let mom tell us that we forgot dinner |
+
+
 ## Video effects:
 
 | Command | Cost (points) | Effect |
