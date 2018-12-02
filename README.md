@@ -57,7 +57,8 @@ You can use the points to trigger special effects on Rove's stream.
 |!shootingstar| 225| Shooting star meme intro |
 |!sadsong| 600 | Sad and epic song plays for when something dramatic happened |
 
-## Honeysroom's effects:
+## Honeysroom effects:
+
 | Command | Cost (points) | Effect |
 |:-----:|:-----:|:-----:|
 |!honeyfart| 150 | Honeythelewdbadger gets out of bed to fart on Rove |
@@ -67,6 +68,22 @@ You can use the points to trigger special effects on Rove's stream.
 |!tv3| 275 | What's on TV? |
 |!dinner| 300 | Let mom tell us that we forgot dinner |
 
+## Saloon effects:
+
+| Command | Cost (points) | Effect |
+|:-----:|:-----:|:-----:|
+|!dog| 175 | Dog appears |
+|!revolver| 200 | Shoot a revolver from out the window and knock over some redbulls |
+
+## Studyroom effects:
+
+| Command | Cost (points) | Effect |
+|:-----:|:-----:|:-----:|
+|!book| 125 | Open the book on the desk |
+|!spider| 155 | Make a spider appear on the desk |
+|!mouse| 160 | Marvin the mouse comes out to sniff around |
+|!ghost| 300 | Secret room reveals a ghost |
+|!cubeyy| 1000 | Promote cubeyygaming |
 
 ## Video effects:
 
