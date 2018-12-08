@@ -73,7 +73,7 @@ You can use the points to trigger special effects on Rove's stream.
 | Command | Cost (points) | Effect |
 |:-----:|:-----:|:-----:|
 |!santacreep| 125 | Santa creeps up on Rove |
-|!santa| 200 | Santa comes by to wish us all a merry christmas |
+|!santa| 200 (sub-only) | Santa comes by to wish us all a merry christmas |
 
 ## Saloon effects:
 
