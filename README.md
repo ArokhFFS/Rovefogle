@@ -68,6 +68,13 @@ You can use the points to trigger special effects on Rove's stream.
 |!tv3| 275 (sub-only)| What's on TV? |
 |!dinner| 300 (sub-only) | Let mom tell us that we forgot dinner |
 
+## Winter effects:
+
+| Command | Cost (points) | Effect |
+|:-----:|:-----:|:-----:|
+|!santacreep| 125 | Santa creeps up on Rove |
+|!santa| 200 | Santa comes by to wish us all a merry christmas |
+
 ## Saloon effects:
 
 | Command | Cost (points) | Effect |
