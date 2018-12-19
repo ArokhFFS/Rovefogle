@@ -117,7 +117,6 @@ You can use the points to trigger special effects on Rove's stream.
 
 | Command | Cost (points) | Effect |
 |:-----:|:-----:|:-----:|
-|!cya| 10 | Let Rovefogle know through Jean claude van Damme that you are heading out. Bye! |
 |!chickensuspense| 250 | Should we or should we not get chicken? |
 |!onlygame| 250 | Rovefogle asks why Rovefogle has to be mad, it's only a game! |
 |!vitas2| 250 | omg it's vitas singing chandrum bedrum (or something) |
