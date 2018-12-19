@@ -12,6 +12,7 @@ You can use the points to trigger special effects on Rove's stream.
 | Command | Cost (points) | Effect |
 |:-----:|:-----:|:-----:|
 |!doorbell| 10 | Sound of a doorbell |
+|!goodbye| 10 | Say good bye to Rovefogle and Chat before you leave |
 |!nice| 50 | "Click Noice" |
 |!ohmy| 50 | George Takei saying "oh my" |
 |!damn| 75 | Eric Cartman saying god fcking damnit|
