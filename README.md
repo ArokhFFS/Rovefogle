@@ -67,7 +67,7 @@ You can use the points to trigger special effects on Rove's stream.
 | Command | Cost (points) | Effect |
 |:-----:|:-----:|:-----:|
 |!orb| 100 | Orb starts glowing |
-|!start2| 125 | Rove knocks on the window asking to start the game | ( OUT OF ORDER )
+|!start2| 125 | Rove knocks on the window asking to start the game ( OUT OF ORDER ) |
 |!orb3| 200 | Try casting a spell on the orb |
 |!orb2| 300 (sub-only) | Orb gets magically activated |
 
