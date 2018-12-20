@@ -14,6 +14,17 @@ You can use the points to trigger special effects on Rove's stream.
 |!doorbell| 10 | Sound of a doorbell |
 |!goodbye| 10 | Say goodbye to Rovefogle and Chat before you leave |
 
+## In-game effects:
+
+| Command | Cost (points) | Effect |
+|:-----:|:-----:|:-----:|
+|!chickensuspense| 250 | Should we or should we not get chicken? |
+|!onlygame| 250 | Rovefogle asks why Rovefogle has to be mad, it's only a game! |
+|!vitas2| 250 | omg it's vitas singing chandrum bedrum (or something) |
+|!blood| 1250 (sub-only) | Rovefogle smells blood (now active with a more viewer friendly twist) |
+|!eddie| 1500 (sub-only) | Who's that sexy sexy man? It's eddievasellini, eddievasellini baby |
+|!newnew| 0 (MOD-only) | Message for new people |
+
 ## Honeysroom effects:
 
 | Command | Cost (points) | Effect |
@@ -69,13 +80,3 @@ You can use the points to trigger special effects on Rove's stream.
 |!mouse| 160 | Marvin the mouse comes out to sniff around |
 |!ghost| 300 (sub-only) | Secret room reveals a ghost |
 |!cubeyy| 1000 (sub-only) | Promote cubeyygaming |
-
-## In-game effects:
-
-| Command | Cost (points) | Effect |
-|:-----:|:-----:|:-----:|
-|!chickensuspense| 250 | Should we or should we not get chicken? |
-|!onlygame| 250 | Rovefogle asks why Rovefogle has to be mad, it's only a game! |
-|!vitas2| 250 | omg it's vitas singing chandrum bedrum (or something) |
-|!blood| 1250 (sub-only) | Rovefogle smells blood (now active with a more viewer friendly twist) |
-|!eddie| 1500 (sub-only) | Who's that sexy sexy man? It's eddievasellini, eddievasellini baby |
