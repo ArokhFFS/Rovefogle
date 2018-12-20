@@ -13,50 +13,6 @@ You can use the points to trigger special effects on Rove's stream.
 |:-----:|:-----:|:-----:|
 |!doorbell| 10 | Sound of a doorbell |
 |!goodbye| 10 | Say goodbye to Rovefogle and Chat before you leave |
-|!nice| 50 | "Click Noice" |
-|!ohmy| 50 | George Takei saying "oh my" |
-|!damn| 75 | Eric Cartman saying god fcking damnit|
-|!discipline| 75 | Does Rovefogle lack discipline? |
-|!finish| 75 | Mortal Kombat "FINISH HIM" |
-|!funzone| 75 | How nice of bluehole to add a fun zone for us! |
-|!gotcha| 75 | Dave chapelle says "gotcha bitch!" |
-|!iloveyou| 75 | To let Rovefogle know you love him |
-|!imout| 75 | "F*ck this, i'm out" |
-|!mywatch| 75 | NOT ON MY WATCH! |
-|!rooster| 75 | Sound of a rooster crowing |
-|!shutup| 75 | Everyone just shut the f*ck up! |
-|!stopsucking| 75 | Stop sucking |
-|!surprise| 75 | Surprise motherf*cker |
-|!wreckingball| 75 | I came in like a wreckingball! |
-|!prostitution| 80 | This comes dangerously close to prostitution |
-|!tyson| 80 | I'm Neil Degrasse Tyson, bitch |
-|!bestfriends| 100 | What, did we just become best friends? YEP! |
-|!candy| 100 | "oeh piece of candy" |
-|!chatcheering| 100 | the sound everyone in twitch chat makes when they cheer for Rove. |
-|!fly| 100 | "I believe i can fly" by R. Kelly |
-|!hello| 100 | Say hello to the camera. Hello motherf... |
-|!ifeelgood| 100 | Woah, I feel good nananana! |
-|!imsorry| 100 | Oh i'm sorry i thought this was America |
-|!itstime| 100 | Bruce Buffer knows it's TIIIIMEEEEE !!! |
-|!justdoit| 100 | Shia labeouf says JUST DO IT! |
-|!keepthechange| 100 | Keep the change you filthy animal |
-|!potter| 100 | Harry potter opening theme |
-|!questions| 100 | Arnold says "i want to ask you some questions" |
-|!redbull| 100 | What the hell is redbull? It's an energy drink! |
-|!stevecarell| 100 | Steve Carell makes random noises. (Bruce Almighty) |
-|!yourewelcome| 100 | Hey it's okay you're welcome, i'm just an ordinary demi-guy |
-|!lobby| 120 | Let's all go to the lobby and get outselves some snacks |
-|!mariachi| 120 | mariachi trumpet playing |
-|!hallelujah| 125 | Hallelujah song plays |
-|!hefuckedup| 125 | It was at this moment he knew, he fucked up |
-|!letitgo| 125 | Let it go Rovefogle, let it go. |
-|!nachoman| 125 | For those who think being macho man is not enough |
-|!freeman| 150 | What does Morgan Freeman do for fun??? |
-|!package| 150 | Rovefogle is hunting a package |
-|!stopbullying| 175 | Defend Rovefogle from all the bullying he receives|
-|!kazoo| 200 | kazoo taunting troll song plays |
-|!shootingstar| 225| Shooting star meme intro |
-|!sadsong| 600 | Sad and epic song plays for when something dramatic happened |
 
 ## Honeysroom effects:
 
