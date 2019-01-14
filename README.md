@@ -13,6 +13,7 @@ You can use the points to trigger special effects on Rove's stream.
 |:-----:|:-----:|:-----:|
 |!doorbell| 10 | Sound of a doorbell |
 |!goodbye| 10 | Say goodbye to Rovefogle and Chat before you leave |
+|!Youthinkyoudo| 125 | But you don't 4Head |
 
 ## In-game effects:
 
