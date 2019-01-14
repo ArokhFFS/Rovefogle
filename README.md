@@ -22,6 +22,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!onlygame| 250 | Rovefogle asks why Rovefogle has to be mad, it's only a game! |
 |!vitas2| 250 | omg it's vitas singing chandrum bedrum (or something) |
 |!facepalm| 300 | Make everyone facepalm |
+|!smooth| 475 | You've been hit by a smooth criminal |
 |!blood| 1250 (sub-only) | Rovefogle smells blood (now active with a more viewer friendly twist) |
 |!eddie| 1500 (sub-only) | Who's that sexy sexy man? It's eddievasellini, eddievasellini baby |
 |!newnew| 0 (MOD-only) | Message for new people |
