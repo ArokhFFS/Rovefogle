@@ -26,6 +26,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!hanutamatata| 280 | Hakunamatata! |
 |!running| 285 | WHY ARE YOU RUNNING?! |
 |!facepalm| 300 | Make everyone facepalm |
+|!Shocko| 325 | Shockolade's personal effect |
 |!pikachu| 350 | Who's that pokemon guys? |
 |!smooth| 475 | You've been hit by a smooth criminal |
 |!blood| 1250 (sub-only) | Rovefogle smells blood (now active with a more viewer friendly twist) |
