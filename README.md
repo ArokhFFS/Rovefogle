@@ -24,6 +24,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!onlygame| 250 | Rovefogle asks why Rovefogle has to be mad, it's only a game! |
 |!vitas2| 250 | omg it's vitas singing chandrum bedrum (or something) |
 |!hanutamatata| 280 | Hakunamatata! |
+|!running| 285 | WHY ARE YOU RUNNING?! |
 |!facepalm| 300 | Make everyone facepalm |
 |!pikachu| 350 | Who's that pokemon guys? |
 |!smooth| 475 | You've been hit by a smooth criminal |
