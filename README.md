@@ -23,6 +23,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!chickensuspense| 250 | Should we or should we not get chicken? |
 |!onlygame| 250 | Rovefogle asks why Rovefogle has to be mad, it's only a game! |
 |!vitas2| 250 | omg it's vitas singing chandrum bedrum (or something) |
+|!panda| 277 | HACHOOO! Bless you Mr. Panda |
 |!hakunamatata| 280 | Hakunamatata! |
 |!legitness| 280 | That was legitness |
 |!running| 285 | WHY ARE YOU RUNNING?! |
