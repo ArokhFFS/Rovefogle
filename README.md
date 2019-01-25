@@ -27,6 +27,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!legitness| 280 | That was legitness |
 |!running| 285 | WHY ARE YOU RUNNING?! |
 |!facepalm| 300 | Make everyone facepalm |
+|!nants| 300 | NAAAAAAAAAAAAAAAANTS INGONYAMA! |
 |!Shocko| 325 | Shockolade's personal effect |
 |!pikachu| 350 | Who's that pokemon guys? |
 |!smooth| 475 | You've been hit by a smooth criminal |
