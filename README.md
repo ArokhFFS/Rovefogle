@@ -27,6 +27,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!hakunamatata| 280 | Hakunamatata! |
 |!legitness| 280 | That was legitness |
 |!running| 285 | WHY ARE YOU RUNNING?! |
+|!shit| 293 | What's wrong with tucker? |
 |!facepalm| 300 | Make everyone facepalm |
 |!nants| 300 | NAAAAAAAAAAAAAAAANTS INGONYAMA! |
 |!4| 320 | FOUR IN A ROW! |
