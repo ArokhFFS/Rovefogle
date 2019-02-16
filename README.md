@@ -26,6 +26,7 @@ You can use the points to trigger special effects on Rove's stream.
 |!panda| 277 | HACHOOO! Bless you Mr. Panda |
 |!hakunamatata| 280 | Hakunamatata! |
 |!legitness| 280 | That was legitness |
+|!rock| 283 | Kid does a perfect rock-skip |
 |!running| 285 | WHY ARE YOU RUNNING?! |
 |!shit| 293 | What's wrong with tucker? |
 |!facepalm| 300 | Make everyone facepalm |
